@@ -383,7 +383,7 @@
                                 <div class="s-icon">
                                     <i class="fi flaticon-serving-dish"></i>
                                 </div>
-                                <a href="/service_detail">Bridal Shawor</a>
+                                <a href="/service_detail">Bridal Shower</a>
                             </div>
                         </div>
                     </div>
@@ -395,7 +395,7 @@
                                 <div class="s-icon">
                                     <i class="fi flaticon-edit"></i>
                                 </div>
-                                <a href="/service_detail">Baby Shawor</a>
+                                <a href="/service_detail">Baby Shower</a>
                             </div>
                         </div>
                     </div>
@@ -530,8 +530,8 @@
                                                 <img src="assets/images/testimonial/img-2.jpg" alt="">
                                             </div>
                                             <div class="wpo-testimonial-info-text">
-                                                <h5>Aliza Anney</h5>
-                                                <span>Wedding 08/12/21</span>
+                                                <h5>Baby Shower</h5>
+                                                <span>baby shower</span>
                                             </div>
                                         </div>
                                     </div>
