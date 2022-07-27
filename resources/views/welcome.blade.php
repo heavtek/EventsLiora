@@ -406,7 +406,7 @@
                     </div>
                     <div class="wpo-service-item">
                         <div class="wpo-service-img">
-                            <img src="assets/images/service/geat1.jpg" alt="">
+                            <img src="assets/images/service/geatmain.jpeg" alt="">
 
                             <div class="wpo-service-text">
                                 <div class="s-icon">
@@ -504,7 +504,7 @@
                                             I found them as my best friends. </p>
                                         <div class="wpo-testimonial-info">
                                             <div class="wpo-testimonial-info-img">
-                                                <img src="assets/images/testimonial/img-1.jpg" alt="">
+                                                <img src="assets/images/testimonial/decore1.jpg" alt="">
                                             </div>
                                             <div class="wpo-testimonial-info-text">
                                                 <h5>Someone</h5>
@@ -518,11 +518,11 @@
                                             I found them as my best friends. </p>
                                         <div class="wpo-testimonial-info">
                                             <div class="wpo-testimonial-info-img">
-                                                <img src="assets/images/testimonial/img-3.jpg" alt="">
+                                                <img src="assets/images/testimonial/graduationsvg3.jfif" alt="">
                                             </div>
                                             <div class="wpo-testimonial-info-text">
                                                 <h5>someone</h5>
-                                                <span>Bridal 06/12/21</span>
+                                                <span>Graduation 06/12/21</span>
                                             </div>
                                         </div>
                                     </div>
@@ -532,7 +532,7 @@
                                             I found them as my best friends. </p>
                                         <div class="wpo-testimonial-info">
                                             <div class="wpo-testimonial-info-img">
-                                                <img src="assets/images/testimonial/img-2.jpg" alt="">
+                                                <img src="assets/images/testimonial/baptism2.jpg" alt="">
                                             </div>
                                             <div class="wpo-testimonial-info-text">
                                                 <h5>Baby Shower</h5>

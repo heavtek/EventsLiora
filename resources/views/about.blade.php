@@ -295,7 +295,7 @@
                                 </div>
                                 <div class="grid">
                                     <div class="img-holder">
-                                        <img src="assets/images/portfolio/bride10.png" alt="">
+                                        <img src="assets/images/portfolio/brport.jpeg" alt="">
                                         <div class="hover-content">
                                             <h4><a href="portfolio-single.html">Bridal Shower</a></h4>
                                        
@@ -304,7 +304,7 @@
                                 </div>
                                 <div class="grid">
                                     <div class="img-holder">
-                                        <img src="assets/images/portfolio/wedding9.png" alt="">
+                                        <img src="assets/images/portfolio/wdport.jpeg" alt="">
                                         <div class="hover-content">
                                             <h4><a href="portfolio-single.html">Wedding Decore</a></h4>
                                      
@@ -313,16 +313,16 @@
                                 </div>
                                 <div class="grid">
                                     <div class="img-holder">
-                                        <img src="assets/images/portfolio/bride11.png" alt="">
+                                        <img src="assets/images/portfolio/geatport.jpeg" alt="">
                                         <div class="hover-content">
-                                            <h4><a href="portfolio-single.html">Bride to be</a></h4>
+                                            <h4><a href="portfolio-single.html">Geat</a></h4>
                                         
                                         </div>
                                     </div>
                                 </div>
                                 <div class="grid">
                                     <div class="img-holder">
-                                        <img src="assets/images/portfolio/wedding10.png" alt="">
+                                        <img src="assets/images/portfolio/wdport2.jpeg" alt="">
                                         <div class="hover-content">
                                             <h4><a href="portfolio-single.html">Wedding</a></h4>
                                           
@@ -331,9 +331,9 @@
                                 </div>
                                 <div class="grid">
                                     <div class="img-holder">
-                                        <img src="assets/images/portfolio/6.jpg" alt="">
+                                        <img src="assets/images/portfolio/nikah3.jpg" alt="">
                                         <div class="hover-content">
-                                            <h4><a href="portfolio-single.html">Baby shower</a></h4>
+                                            <h4><a href="portfolio-single.html">Nikah</a></h4>
                                             
                                         </div>
                                     </div>
