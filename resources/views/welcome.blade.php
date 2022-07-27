@@ -294,19 +294,22 @@
                            
                           
                             <div class="about-single-item">
-                                <div class="wpo-about-item-s2 wow rollIn" data-wow-duration="2s">
+   
+                              
+                        <div class="wpo-about-item-s2 wow rollIn" data-wow-duration="2s">
                                     <div class="wpo-about-img">
                                         <img src="assets/images/about/geatmain.jpeg" alt="">
                                     </div>
                                 </div>
-                            </div>
+</div>
+                           
                            
                             <div class="ab-shape">
                                 <img src="assets/images/about/shape.png" alt="">
                             </div>
                         </div>
                     </div>
-                    <div class="preloader">
+          
          
       
                     <div class="col-lg-7 col-md-12 col-12">
@@ -330,7 +333,7 @@
                             </div>
                         </div>
                     </div>
-                    </div>
+             
                 </div>
             </div>
         </section>
