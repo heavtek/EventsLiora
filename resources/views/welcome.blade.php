@@ -34,7 +34,7 @@
     <!-- start page-wrapper -->
     <div class="page-wrapper">
         <!-- start preloader -->
-    
+       
         <!-- end preloader -->
         <!-- Start header -->
         <header id="header">
@@ -306,6 +306,9 @@
                             </div>
                         </div>
                     </div>
+                    <div class="preloader">
+         
+      
                     <div class="col-lg-7 col-md-12 col-12">
                         <div class="wpo-about-text">
                             <div class="wpo-about-icon">
@@ -326,6 +329,7 @@
                                 <a class="theme-btn-s3" href="/about">More About</a>
                             </div>
                         </div>
+                    </div>
                     </div>
                 </div>
             </div>
