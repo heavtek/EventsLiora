@@ -34,8 +34,46 @@
     <!-- start page-wrapper -->
     <div class="page-wrapper">
         <!-- start preloader -->
-       
+        <div class="preloader">
+            <div class="vertical-centered-box">
+                <div class="content">
+                    <div class="loader-circle"></div>
+                    <div class="loader-line-mask">
+                        <div class="loader-line"></div>
+                    </div>
+                    <img src="assets/images/favicon.png" alt="">
+                </div>
+            </div>
+        </div>
         <!-- end preloader -->
+        <section class="topbar">
+            <h2 class="hidden">some</h2>
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col col-lg-7 col-md-12 col-12">
+                        <div class="contact-intro">
+                            <ul>
+                                <li><i class="fi flaticon-email"></i>liora@gmail.com</li>
+                                <li><i class="fi flaticon-phone-call"></i> +251 9456785</li>
+                                <li><i class="fi flaticon-maps-and-flags"></i> Bole – Atlas</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col col-lg-5 col-md-12 col-12">
+                        <div class="contact-info">
+                            <ul>
+                                <li><a href="#"><i class="fi flaticon-facebook-app-symbol"></i></a></li>
+                                <li><a href="#"><i class="fi flaticon-twitter"></i></a></li>
+                                <li><a href="#"><i class="fi flaticon-linkedin"></i></a></li>
+                                <li><a href="#"><i class="fi flaticon-instagram-1"></i></a></li>
+                                <li><a href="#"><i class="fi flaticon-pinterest"></i></a></li>
+                                <li><a href="#"><i class="fi flaticon-youtube"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
         <!-- Start header -->
         <header id="header">
             <div class="wpo-site-header wpo-header-style-3">
@@ -137,6 +175,7 @@
                                                                     class="ti-close"></i></a></span>
                                                     </div>
                                                 </div>
+                                                
                                             </div>
                                             <div class="mini-cart-action clearfix">
                                                 <span class="mini-checkout-price">Subtotal:
@@ -175,7 +214,7 @@
             <div class="swiper-container">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <div class="slide-inner slide-bg-image" data-background="assets/images/slider/decore3.jpg">
+                        <div class="slide-inner slide-bg-image" data-background="assets/images/slider/decore4.jpg">
                         </div> <!-- end slide-inner --> 
                     </div> <!-- end swiper-slide -->
 
@@ -295,13 +334,16 @@
                           
                             <div class="about-single-item">
    
-                              
+                           
                         <div class="wpo-about-item-s2 wow rollIn" data-wow-duration="2s">
                                     <div class="wpo-about-img">
                                         <img src="assets/images/about/geatmain.jpeg" alt="">
                                     </div>
-                                </div>
-</div>
+                     
+                                   </div>    
+
+
+                                              </div>
                            
                            
                             <div class="ab-shape">

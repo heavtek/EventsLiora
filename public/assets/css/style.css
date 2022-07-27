@@ -527,7 +527,7 @@ img {
 .theme-btn.theme-btn-s3,
 .theme-btn-s3.theme-btn-s3,
 .theme-btn-s4.theme-btn-s3 {
-  background: #cde0ef;
+  background: #99337f;
 }
 .theme-btn.theme-btn-s3:after,
 .theme-btn-s3.theme-btn-s3:after,
@@ -2910,7 +2910,7 @@ img {
   background: rgba(255, 255, 255, 0.1);
 }
 .wpo-header-style-3 .navigation.sticky-on {
-  background: #738ea5;
+  background: #99337f;
 }
 .wpo-header-style-3 #navbar > ul > li > a {
   color: #fff;
@@ -4746,7 +4746,7 @@ static-hero-s4
  
 }
 .wpo-service-section .wpo-service-item {
-  background: #edf3f8;
+  background: rgba(153, 51, 127, 0.4);
   padding: 24px;
   
 }
@@ -5032,7 +5032,7 @@ static-hero-s4
   font-size: 4.6666666667rem;
   line-height: 40px;
   font-weight: 500;
-  color: #86a0b6;
+  color: #99337f;
   margin: 0 0 0.1em;
   font-family: "Futura PT";
   display: flex;
@@ -5976,7 +5976,7 @@ static-hero-s4
 .wpo-about-section-s2 .wpo-about-wrap .wpo-about-item .wpo-about-img,
 .wpo-about-section-s2 .wpo-about-wrap .wpo-about-item-s2 .wpo-about-img {
   padding: 20px;
-  background: #86a0b6;
+  background: #bc5ca4;
 }
 .wpo-about-section .wpo-about-wrap .about-single-item,
 .wpo-about-section-s2 .wpo-about-wrap .about-single-item {
