@@ -190,7 +190,7 @@
                     </div> <!-- end swiper-slide -->
 
                     <div class="swiper-slide">
-                        <div class="slide-inner slide-bg-image" data-background="assets/images/slider/geat2.png">
+                        <div class="slide-inner slide-bg-image" data-background="assets/images/slider/manu1.jpg">
                         </div> <!-- end slide-inner --> 
                     </div> <!-- end swiper-slide -->
                     <div class="swiper-slide">
@@ -215,6 +215,7 @@
                         <div class="slide-inner slide-bg-image" data-background="assets/images/slider/nikah4.jpg">
                         </div> <!-- end slide-inner --> 
                     </div> <!-- end swiper-slide -->
+                 
                     <div class="swiper-slide">
                         <div class="slide-inner slide-bg-image" data-background="assets/images/slider/decore4.jpg">
                         </div> <!-- end slide-inner --> 
@@ -245,7 +246,11 @@
                         </div> <!-- end slide-inner --> 
                     </div> <!-- end swiper-slide -->
                     <div class="swiper-slide">
-                        <div class="slide-inner slide-bg-image" data-background="assets/images/slider/wedding10.png">
+                        <div class="slide-inner slide-bg-image" data-background="assets/images/slider/manu2.jpg">
+                        </div> <!-- end slide-inner --> 
+                    </div> <!-- end swiper-slide -->
+                    <div class="swiper-slide">
+                        <div class="slide-inner slide-bg-image" data-background="assets/images/slider/makeup1.jpg">
                         </div> <!-- end slide-inner --> 
                     </div> <!-- end swiper-slide -->
                     <div class="swiper-slide">
@@ -301,7 +306,7 @@
                             <div class="about-single-item">
                                 <div class="wpo-about-item-s2 wow rollIn" data-wow-duration="2s">
                                     <div class="wpo-about-img">
-                                        <img src="assets/images/about/geat2.png" alt="">
+                                        <img src="assets/images/about/geatmain.jpeg" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -365,7 +370,7 @@
                 <div class="wpo-service-active owl-carousel">
                     <div class="wpo-service-item">
                         <div class="wpo-service-img">
-                            <img src="assets/images/service/wed4.png" alt="">
+                            <img src="assets/images/service/wedding5.jpg" alt="">
 
                             <div class="wpo-service-text">
                                 <div class="s-icon">
@@ -401,7 +406,7 @@
                     </div>
                     <div class="wpo-service-item">
                         <div class="wpo-service-img">
-                            <img src="assets/images/service/geat4.png" alt="">
+                            <img src="assets/images/service/geat1.jpg" alt="">
 
                             <div class="wpo-service-text">
                                 <div class="s-icon">

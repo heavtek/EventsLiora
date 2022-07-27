@@ -145,7 +145,7 @@
                     <div class="col-lg-8 col-12">
                         <div class="wpo-minimal-wrap">
                             <div class="wpo-minimal-img">
-                                <img src="assets/images/service-single/wedding10.png" alt="">
+                                <img src="assets/images/service-single/wed5.jpeg" alt="">
                             </div>
                             <ul>
                                 <li class="video-holder">
@@ -159,18 +159,18 @@
                                 <div class="col co-l-lg-4 col-md-4 col-sm-6 col-12">
                                     <div class="wpo-service-details-text">
                                
-                                <img src="assets/images/service-single/wedding10.png" alt="">
+                                <img src="assets/images/service-single/wed5.jpeg" alt="">
                  
                                     </div>
                                 </div>
                                 <div class="col co-l-lg-4 col-md-4 col-sm-6 col-12">
                                     <div class="wpo-service-details-text-3">
-                                    <img src="assets/images/service-single/makeup2.png" alt="">
+                                    <img src="assets/images/service-single/makeup1.jpg" alt="">
                                     </div>
                                 </div>
                                 <div class="col co-l-lg-4 col-md-4 col-sm-6 col-12">
                                     <div class="wpo-service-details-text">
-                                    <img src="assets/images/service-single/s1.jpg" alt="">
+                                    <img src="assets/images/service-single/manu3.jpg" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -232,7 +232,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <p>by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet</p>
+                            <p>This are some of our works we have doneThis are some of our works we have doneThis are some of our works we have doneThis are some of our works we have doneThis are some of our works we have done </p>
                         </div>
                    
                     </div>
@@ -250,12 +250,12 @@
                                 <h3>Services</h3>
                                 <ul>
                               
-                                    <li><a href="service-single.html"> Stylish makeup for bride <span>5</span></a></li>
-                                    <li><a href="service-single.html">Photography <span>7</span></a></li>
-                                    <li><a href="service-single.html">Manicure & Pedicure<span>3</span></a></li>
-                                    <li><a href="service-single.html">Wedding Dress<span>6</span></a></li>
-                                    <li><a href="service-single.html">Wedding Hall <span>2</span></a></li>
-                                    <li><a href="service-single.html">Full body Polish<span>8</span></a></li>
+                                    <li><a href="service-single.html"> Stylish makeup for bride <span>5000</span></a></li>
+                                    <li><a href="service-single.html">Photography <span>7000</span></a></li>
+                                    <li><a href="service-single.html">Manicure & Pedicure<span>3000</span></a></li>
+                                    <li><a href="service-single.html">Wedding Dress<span>60000</span></a></li>
+                                    <li><a href="service-single.html">Wedding Hall <span>200000</span></a></li>
+                                    <li><a href="service-single.html">Full body Polish<span>800</span></a></li>
                                 </ul>
                             </div>
                             <div class="widget wpo-instagram-widget">

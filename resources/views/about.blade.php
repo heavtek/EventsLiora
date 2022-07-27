@@ -146,7 +146,7 @@
                         <div class="wpo-about-wrap">
                             <div class="wpo-about-item">
                                 <div class="wpo-about-img">
-                                    <img src="assets/images/about/wedding8.png" alt="">
+                                    <img src="assets/images/about/wedd.jpeg" alt="">
                                 </div>
                             </div>
                             <div class="ab-shape">
