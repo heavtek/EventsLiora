@@ -39,7 +39,7 @@
         <!-- end preloader -->
         <!-- Start header -->
         <header id="header">
-            <div class="wpo-site-header">
+            <div class="wpo-site-header wpo-header-style-3">
                 <nav class="navigation navbar navbar-expand-lg navbar-light">
                     <div class="container-fluid">
                         <div class="row align-items-center">
@@ -55,14 +55,21 @@
                             </div>
                             <div class="col-lg-2 col-md-6 col-6">
                                 <div class="navbar-header">
-                                <a class="navbar-brand menu-item-has-children" href="index-2.html"><img src="assets/images/section-title.png"
-                                            alt="Liora Events & Weeding">Liora Events & wedding</a>
+                                    <a class="navbar-brand menu-item-has-children" href="index-2.html"><img src="assets/images/about/shape6.png"
+                                            alt="Liora Events & Weeding"></a>
+                                            <div class="section-title-img">
+
+                            </div>
                                 </div>
                             </div>
+                           
                             <div class="col-lg-8 col-md-1 col-1">
+                         
                                 <div id="navbar" class="collapse navbar-collapse navigation-holder">
                                     <button class="menu-close"><i class="ti-close"></i></button>
+            
                                     <ul class="nav navbar-nav mb-2 mb-lg-0">
+                                 
                                         <li class="menu-item-has-children">
                                             <a href="/">Home</a>
                                           
@@ -74,7 +81,10 @@
                                             <a href="/about">About</a>
                                         </li>
                                         <li>
-                                            <a href="/gallary">Gallery</a>
+                                            <a href="/gallary">Events</a>
+                                        </li>
+                                        <li>
+                                            <a href="/gallary">videos</a>
                                         </li>
                                         <li>
                                             <a href="/contact">Contact</a>
@@ -85,7 +95,9 @@
 
                                 </div><!-- end of nav-collapse -->
                             </div>
+                          
                             <div class="col-lg-2 col-md-2 col-2">
+                          
                                 <div class="header-right">
                                     <div class="header-search-form-wrapper">
                                         <div class="cart-search-contact">
@@ -103,7 +115,50 @@
                                             </div>
                                         </div>
                                     </div>
-                              
+                                    <!-- <div class="mini-cart">
+                                        <button class="cart-toggle-btn"> <i class="fi flaticon-shopping-cart"></i>
+                                            <span class="cart-count">2</span></button>
+                                        <div class="mini-cart-content">
+                                            <button class="mini-cart-close"><i class="ti-close"></i></button>
+                                            <div class="mini-cart-items">
+                                                <div class="mini-cart-item clearfix">
+                                                    <div class="mini-cart-item-image">
+                                                        <a href="shop.html"><img
+                                                                src="assets/images/shop/mini-cart/img-1.jpg"
+                                                                alt></a>
+                                                    </div>
+                                                    <div class="mini-cart-item-des">
+                                                        <a href="shop.html">Wedding Gown</a>
+                                                        <span class="mini-cart-item-price">$20.15 x 1</span>
+                                                        <span class="mini-cart-item-quantity"><a href="#"><i
+                                                                    class="ti-close"></i></a></span>
+                                                    </div>
+                                                </div>
+                                                <div class="mini-cart-item clearfix">
+                                                    <div class="mini-cart-item-image">
+                                                        <a href="shop.html"><img
+                                                                src="assets/images/shop/mini-cart/img-2.jpg"
+                                                                alt></a>
+                                                    </div>
+                                                    <div class="mini-cart-item-des">
+                                                        <a href="shop.html">Bridal Flower</a>
+                                                        <span class="mini-cart-item-price">$13.25 x 2</span>
+                                                        <span class="mini-cart-item-quantity"><a href="#"><i
+                                                                    class="ti-close"></i></a></span>
+                                                    </div>
+                                                </div>
+                                                
+                                            </div>
+                                            <div class="mini-cart-action clearfix">
+                                                <span class="mini-checkout-price">Subtotal:
+                                                    <span>$215.14</span></span>
+                                                <div class="mini-btn">
+                                                    <a href="checkout.html" class="view-cart-btn s1">Checkout</a>
+                                                    <a href="cart.html" class="view-cart-btn">View Cart</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>
@@ -248,8 +303,7 @@
                         <div class="col col-xl-3 col-lg-4 col-md-6 col-sm-12 col-12">
                             <div class="widget about-widget">
                                 <div class="logo widget-title">
-                                <img src="assets/images/section-title.png"
-                                            alt="Liora Events & Weeding">Liora Events </a>
+                                <img src="assets/images/about/shape6.png" alt="">Liora Events </a>
                                 </div>
                                 <p>Welcome plan your event  with us!</p>
                                 <ul>
@@ -334,7 +388,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col col-xs-12">
-                            <p class="copyright"> &copy; 2022 Liora Event&Decore <a
+                            <p class="copyright"> &copy; 2022 Liora Event&Wedding <a
                                     href="index-2.html"></a>. All Rights Reserved.</p>
                         </div>
                     </div>

@@ -403,6 +403,10 @@ img {
   color: #d58675;
   font-family: "Muli";
 }
+.logoname{
+  color: #d58675;
+  margin-top: 79;
+}
 @media (max-width: 575px) {
   .wpo-section-title span,
 .wpo-section-title-s2 span {
@@ -4437,7 +4441,7 @@ static-hero-s4
 4. wpo-footer
 --------------------------------------------------------------*/
 .wpo-site-footer {
-  background: #edf3f8;
+  background: hsl(12deg 40% 92%);
   position: relative;
   font-size: 15px;
   overflow: hidden;

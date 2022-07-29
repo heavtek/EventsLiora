@@ -59,7 +59,7 @@
                              
                            
                                 <li><i class="fi flaticon-email"></i>liora@gmail.com</li>
-                                <li><i class="fi flaticon-phone-call"></i> +251 9456785</li>
+                                <li><i class="fi flaticon-phone-call"></i> +251 912319030</li>
                                 <li><i class="fi flaticon-maps-and-flags"></i> Bole – Atlas</li>
                             </ul>
                         </div>
@@ -104,10 +104,14 @@
                             </div>
                                 </div>
                             </div>
+                           
                             <div class="col-lg-8 col-md-1 col-1">
+                         
                                 <div id="navbar" class="collapse navbar-collapse navigation-holder">
                                     <button class="menu-close"><i class="ti-close"></i></button>
+            
                                     <ul class="nav navbar-nav mb-2 mb-lg-0">
+                                 
                                         <li class="menu-item-has-children">
                                             <a href="/">Home</a>
                                           
