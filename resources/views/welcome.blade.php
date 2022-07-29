@@ -49,10 +49,15 @@
         <section class="topbar">
             <h2 class="hidden">some</h2>
             <div class="container-fluid">
+                
                 <div class="row">
                     <div class="col col-lg-7 col-md-12 col-12">
                         <div class="contact-intro">
+                            
                             <ul>
+                        
+                             
+                           
                                 <li><i class="fi flaticon-email"></i>liora@gmail.com</li>
                                 <li><i class="fi flaticon-phone-call"></i> +251 9456785</li>
                                 <li><i class="fi flaticon-maps-and-flags"></i> Bole – Atlas</li>
@@ -63,9 +68,9 @@
                         <div class="contact-info">
                             <ul>
                                 <li><a href="#"><i class="fi flaticon-facebook-app-symbol"></i></a></li>
-                                <li><a href="#"><i class="fi flaticon-twitter"></i></a></li>
+                                <li><a href="#"><i class="fi flaticon-telegram"></a></li>
                                 <li><a href="#"><i class="fi flaticon-linkedin"></i></a></li>
-                                <li><a href="#"><i class="fi flaticon-instagram-1"></i></a></li>
+                                <li><a href="https://instagram.com/liora_events_and_weddings?igshid=YmMyMTA2M2Y="><i class="fi flaticon-instagram-1"></i></a></li>
                                 <li><a href="#"><i class="fi flaticon-pinterest"></i></a></li>
                                 <li><a href="#"><i class="fi flaticon-youtube"></i></a></li>
                             </ul>
@@ -92,10 +97,10 @@
                             </div>
                             <div class="col-lg-2 col-md-6 col-6">
                                 <div class="navbar-header">
-                                    <a class="navbar-brand menu-item-has-children" href="index-2.html"><img src="assets/images/section-title.png"
-                                            alt="Liora Events & Weeding">Liora Events & wedding</a>
+                                    <a class="navbar-brand menu-item-has-children" href="index-2.html"><img src="assets/images/about/shape6.png"
+                                            alt="Liora Events & Weeding"></a>
                                             <div class="section-title-img">
-  
+
                             </div>
                                 </div>
                             </div>
@@ -114,7 +119,10 @@
                                             <a href="/about">About</a>
                                         </li>
                                         <li>
-                                            <a href="/gallary">Gallery</a>
+                                            <a href="/gallary">Events</a>
+                                        </li>
+                                        <li>
+                                            <a href="/gallary">videos</a>
                                         </li>
                                         <li>
                                             <a href="/contact">Contact</a>
@@ -125,7 +133,9 @@
 
                                 </div><!-- end of nav-collapse -->
                             </div>
+                          
                             <div class="col-lg-2 col-md-2 col-2">
+                          
                                 <div class="header-right">
                                     <div class="header-search-form-wrapper">
                                         <div class="cart-search-contact">
@@ -283,7 +293,7 @@
                         </div> <!-- end slide-inner --> 
                     </div> <!-- end swiper-slide -->
                     <div class="swiper-slide">
-                        <div class="slide-inner slide-bg-image" data-background="assets/images/slider/wedding5.jpg">
+                        <div class="slide-inner slide-bg-image" data-background="assets/images/slider/fllower4.jpg">
                         </div> <!-- end slide-inner --> 
                     </div> <!-- end swiper-slide -->
                     <div class="swiper-slide">
@@ -337,7 +347,7 @@
                            
                         <div class="wpo-about-item-s2 wow rollIn" data-wow-duration="2s">
                                     <div class="wpo-about-img">
-                                        <img src="assets/images/about/geatmain.jpeg" alt="">
+                                        <img src="assets/images/about/bridal5.jpg" alt="">
                                     </div>
                      
                                    </div>    
@@ -347,7 +357,7 @@
                            
                            
                             <div class="ab-shape">
-                                <img src="assets/images/about/shape.png" alt="">
+                                <img src="assets/images/about/shape5.jfif" alt="">
                             </div>
                         </div>
                     </div>
@@ -358,19 +368,15 @@
                         <div class="wpo-about-text">
                             <div class="wpo-about-icon">
                                 <div class="icon">
-                                    <img src="assets/images/about/thumb.png" alt="">
+                                    <img src="assets/images/about/shape6.png" alt="">
                                 </div>
                             </div>
                             <div class="wpo-about-icon-content">
                                 <h2>Planner of Your Perfect Event</h2>
-                                <p>It is a long established fact that a reader will be distracted by the readable
-                                    content of a page when looking at its layout. The point of using Lorem Ipsum is
-                                    that it has a more-or-less normal distribution of letters, as opposed to using
+                                <p>Liora events and wedding planner will provide for you all your events needs from A – to – Z services,like social gatherings,weddings,corporate functions ,luxurious events
                                 </p>
                                 <p>
-                                    Content here, content here', making it look like readable English. Many desktop
-                                    publishing packages and web page editors now use Lorem Ipsum as their default
-                                    model text.</p>
+                                ,non profit fundraising and grand openings, or product launches  We help you plan your event from start to finish, starting with finding the perfect venue and event partners to realize your idea...</p>
                                 <a class="theme-btn-s3" href="/about">More About</a>
                             </div>
                         </div>
@@ -394,130 +400,112 @@
         <!-- end wpo-video-section-->
 
         <!-- start story-section -->
-        <section class="wpo-service-section">
-            <h2 class="hidden">some</h2>
-            <div class="container">
-            <div class="row">
+        <section class="wpo-pricing-section section-padding">
+                <div class="container">
+          
+                    <div class="row">
+                   
                         <div class="wpo-section-title">
-                            <span>Our Services</span>
-                            <h2>What We Can Do</h2>
+                            <span>Service</span>
+                            <h2>what We Can Do</h2>
                             <div class="section-title-img">
-                                <img src="assets/images/section-title.png" alt="">
+                            <img src="assets/images/about/shape6.png" alt="">
                             </div>
                         </div>
-                    </div>
-                <div class="wpo-service-active owl-carousel">
-                    <div class="wpo-service-item">
-                        <div class="wpo-service-img">
-                            <img src="assets/images/service/wedding5.jpg" alt="">
-
-                            <div class="wpo-service-text">
-                                <div class="s-icon">
-                                    <i class="fi flaticon-gallery"></i>
+                 
+                     <div class="wpo-pricing-wrap">
+                        <div class="row">
+   
+                            <div class="col col-lg-4 col-md-6 col-12">
+                                <div class="wpo-pricing-item">
+                                    <div class="wpo-pricing-top">
+                                        <div class="wpo-pricing-img">
+                                            <img src="assets/images/pricing/img-2.jpg" alt="">
+                                        </div>
+                                        <div class="wpo-pricing-text">
+                                            <h4>WEDDINGS</h4>
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="wpo-pricing-bottom">
+                                        <div class="wpo-pricing-bottom-text">
+                                            <ul>
+                                               <P>With every last detail taken care of,we're here to ensure the day you've always dreamed of will be the day you'll never forget</P>
+                                            </ul>
+                                          
+                                        </div>
+                                    </div>
                                 </div>
-                                <a href="/service_detail">Wedding Decore</a>
                             </div>
-                        </div>
-                    </div>
-                    <div class="wpo-service-item">
-                        <div class="wpo-service-img">
-                            <img src="assets/images/service/bride8.jpg" alt="">
-
-                            <div class="wpo-service-text">
-                                <div class="s-icon">
-                                    <i class="fi flaticon-serving-dish"></i>
+                            <div class="col col-lg-4 col-md-6 col-12">
+                                <div class="wpo-pricing-item">
+                                    <div class="wpo-pricing-top">
+                                        <div class="wpo-pricing-img">
+                                            <img src="assets/images/pricing/fe-30.jpg" alt="">
+                                        </div>
+                                        <div class="wpo-pricing-text">
+                                            <h4>CORPORATE EVENTS</h4>
+                                           
+                                        </div>
+                                    </div>
+                                    <div class="wpo-pricing-bottom">
+                                        <div class="wpo-pricing-bottom-text">
+                                            <ul>
+                                            h every last detail taken care of,we're here to ensure the day you've always dreamed of will be the day you'll never forget
+                                            </ul>
+                                         
+                                        </div>
+                                    </div>
                                 </div>
-                                <a href="/service_detail">Bridal Shower</a>
                             </div>
-                        </div>
-                    </div>
-                    <div class="wpo-service-item">
-                        <div class="wpo-service-img">
-                            <img src="assets/images/service/baby2.jpg" alt="">
-
-                            <div class="wpo-service-text">
-                                <div class="s-icon">
-                                    <i class="fi flaticon-edit"></i>
+                            <div class="col col-lg-4 col-md-6 col-12">
+                                <div class="wpo-pricing-item">
+                                    <div class="wpo-pricing-top">
+                                        <div class="wpo-pricing-img">
+                                            <img src="assets/images/pricing/graduation5.jfif" alt="">
+                                        </div>
+                                        <div class="wpo-pricing-text">
+                                            <h4>SOCIAL GATHRINGS</h4>
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="wpo-pricing-bottom">
+                                        <div class="wpo-pricing-bottom-text">
+                                            <ul>
+                                          
+                                            With every last detail taken care of,we're here to ensure the day you've always dreamed of will be the day you'll never forget
+                                            </ul>
+                                          
+                                    </div>
+                                    </div>
                                 </div>
-                                <a href="/service_detail">Baby Shower</a>
                             </div>
-                        </div>
-                    </div>
-                    <div class="wpo-service-item">
-                        <div class="wpo-service-img">
-                            <img src="assets/images/service/geatmain.jpeg" alt="">
-
-                            <div class="wpo-service-text">
-                                <div class="s-icon">
-                                    <i class="fi flaticon-serving-dish"></i>
+                            <div class="col col-lg-4  col-md-6 col-12">
+                                <div class="wpo-pricing-item">
+                                    <div class="wpo-pricing-top">
+                                        <div class="wpo-pricing-img">
+                                            <img src="assets/images/pricing/flower12.jpg" alt="">
+                                        </div>
+                                        <div class="wpo-pricing-text">
+                                            <h4>FLOWER ARRANGEMENT</h4>
+                                          
+                                        </div>
+                                    </div>
+                                    <div class="wpo-pricing-bottom">
+                                        <div class="wpo-pricing-bottom-text">
+                                            
+                                           <p>  h every last detail taken care of,we're here to ensure the day you've always dreamed of will be the day you'll never forget</p>
+                                        </div>
+                                    </div>
                                 </div>
-                                <a href="/service_detail"> Geat</a>
                             </div>
-                        </div>
-                    </div>
-                    <div class="wpo-service-item">
-                        <div class="wpo-service-img">
-                            <img src="assets/images/service/graduation4.jpg" alt="">
 
-                            <div class="wpo-service-text">
-                                <div class="s-icon">
-                                    <i class="fi flaticon-serving-dish"></i>
-                                </div>
-                                <a href="/service_detail">Graduation</a>
-                            </div>
+                        </div>
                         </div>
                     </div>
-                    <div class="wpo-service-item">
-                        <div class="wpo-service-img">
-                            <img src="assets/images/service/engagement1.jfif" alt="">
 
-                            <div class="wpo-service-text">
-                                <div class="s-icon">
-                                    <i class="fi flaticon-cake"></i>
-                                </div>
-                                <a href="/service_detail">Engagement</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="wpo-service-item">
-                        <div class="wpo-service-img">
-                            <img src="assets/images/service/engagement3.jpg" alt="">
-
-                            <div class="wpo-service-text">
-                                <div class="s-icon">
-                                    <i class="fi flaticon-cake"></i>
-                                </div>
-                                <a href="/service_detail">Nikah</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="wpo-service-item">
-                        <div class="wpo-service-img">
-                            <img src="assets/images/service/baptism2.jpg" alt="">
-
-                            <div class="wpo-service-text">
-                                <div class="s-icon">
-                                    <i class="fi flaticon-cake"></i>
-                                </div>
-                                <a href="/service_detail">Baptism</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="wpo-service-item">
-                        <div class="wpo-service-img">
-                            <img src="assets/images/service/bridal5.jpg" alt="">
-
-                            <div class="wpo-service-text">
-                                <div class="s-icon">
-                                    <i class="fi flaticon-wedding-rings"></i>
-                                </div>
-                                <a href="/service_detail">Birthday Ceremony</a>
-                            </div>
-                        </div>
-                    </div>
                 </div>
-            </div> <!-- end container -->
-        </section>
+            </section>
         <!-- end story-section -->
 
         <!-- start wpo-portfolio-section -->
@@ -587,7 +575,7 @@
                 </div> <!-- end container -->
 
                 <div class="wpo-testimonials-shape">
-                    <img src="assets/images/testimonial/shape2.png" alt="">
+                    <img src="assets/images/about/shape6.png" alt="">
                 </div>
             </section>
             <!-- end wpo-testimonials-section -->
@@ -599,7 +587,7 @@
                             <span>Pricing</span>
                             <h2>Event Plan Packages</h2>
                             <div class="section-title-img">
-                                <img src="assets/images/section-title.png" alt="">
+                           <img src="assets/images/about/shape6.png" alt="">
                             </div>
                         </div>
                     </div>
@@ -613,21 +601,17 @@
                                         </div>
                                         <div class="wpo-pricing-text">
                                             <h4>Basic Package</h4>
-                                            <h2>$250<span>/Monthly</span></h2>
+                                            <h2>10,000birr<span>onetime</span></h2>
                                         </div>
                                     </div>
                                     <div class="wpo-pricing-bottom">
                                         <div class="wpo-pricing-bottom-text">
                                             <ul>
-                                                <li>Wedding Decore</li>
-                                                <li>Birthday</li>
-                                                <li>Bridal Shower</li>
-                                                <li>Baby Shower</li>
-                                                <li>Baptisim</li>
-                                                <li>Graduation</li>
-                                                <li>Nikah</li>
-                                                <li>Engagement</li>
-                                                <li>Geat</li>
+                                                <li>WEDDINGS </li>
+                                                <li>CORPORATE EVENTS</li>
+                                                <li>SOCIAL EVENT</li>
+                                                <li>FLOWER ARRANGEMENT </li>
+                                               
                                             </ul>
                                             <a href="/pricing">Choose Package</a>
                                         </div>
@@ -642,21 +626,16 @@
                                         </div>
                                         <div class="wpo-pricing-text">
                                             <h4>Standard Package</h4>
-                                            <h2>$550<span>/Monthly</span></h2>
+                                            <h2>40000<span>one time</span></h2>
                                         </div>
                                     </div>
                                     <div class="wpo-pricing-bottom">
                                         <div class="wpo-pricing-bottom-text">
                                             <ul>
-                                            <li>Wedding Decore</li>
-                                                <li>Birthday</li>
-                                                <li>Bridal Shower</li>
-                                                <li>Baby Shower</li>
-                                                <li>Baptisim</li>
-                                                <li>Graduation</li>
-                                                <li>Nikah</li>
-                                                <li>Engagement</li>
-                                                <li>Geat</li>
+                                            <li>WEDDINGS </li>
+                                                <li>CORPORATE EVENTS</li>
+                                                <li>SOCIAL EVENT</li>
+                                                <li>FLOWER ARRANGEMENT </li>
                                             </ul>
                                             <a href="/pricing">Choose Package</a>
                                         </div>
@@ -671,21 +650,16 @@
                                         </div>
                                         <div class="wpo-pricing-text">
                                             <h4>Luxary Package</h4>
-                                            <h2>$880<span>/Monthly</span></h2>
+                                            <h2>100000<span>one time</span></h2>
                                         </div>
                                     </div>
                                     <div class="wpo-pricing-bottom">
                                         <div class="wpo-pricing-bottom-text">
                                             <ul>
-                                            <li>Wedding Decore</li>
-                                                <li>Birthday</li>
-                                                <li>Bridal Shower</li>
-                                                <li>Baby Shower</li>
-                                                <li>Baptisim</li>
-                                                <li>Graduation</li>
-                                                <li>Nikah</li>
-                                                <li>Engagement</li>
-                                                <li>Geat</li>
+                                            <li>WEDDINGS </li>
+                                                <li>CORPORATE EVENTS</li>
+                                                <li>SOCIAL EVENT</li>
+                                                <li>FLOWER ARRANGEMENT </li>
                                             </ul>
                                             <a href="pricing">Choose Package</a>
                                     </div>
@@ -778,8 +752,7 @@
                         <div class="col col-xl-3 col-lg-4 col-md-6 col-sm-12 col-12">
                             <div class="widget about-widget">
                                 <div class="logo widget-title">
-                                <img src="assets/images/section-title.png"
-                                            alt="Liora Events & Weeding">Liora Events </a>
+                                <img src="assets/images/about/shape6.png" alt="">Liora Events </a>
                                 </div>
                                 <p>Welcome plan your event  with us!</p>
                                 <ul>
@@ -864,7 +837,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col col-xs-12">
-                            <p class="copyright"> &copy; 2022 Liora Event&Decore <a
+                            <p class="copyright"> &copy; 2022 Liora Event&Wedding <a
                                     href="index-2.html"></a>. All Rights Reserved.</p>
                         </div>
                     </div>

@@ -129,11 +129,11 @@
         </section>
         <!-- end page-title -->
          <!-- start wpo-portfolio-section -->
-         <section class="wpo-portfolio-section section-padding pt-120">
+         <section class="wpo-portfolio-section section-padding">
             <div class="container-fluid">
                 <div class="row">
                     <div class="wpo-section-title">
-                        <span>Portfolio</span>
+                        <span>Events</span>
                         <h2>Our Amazing Work</h2>
                         <div class="section-title-img">
                             <img src="assets/images/section-title.png" alt="">
@@ -150,70 +150,52 @@
                                         <img src="assets/images/portfolio/1.jpg" alt="">
                                         <div class="hover-content">
                                             <h4><a href="portfolio-single.html">Engagement</a></h4>
-                                            <span></span>
+                                       
                                         </div>
                                     </div>
                                 </div>
                                 <div class="grid">
                                     <div class="img-holder">
-                                        <img src="assets/images/portfolio/bride11.jpg" alt="">
+                                        <img src="assets/images/portfolio/babtismnew.jpg" alt="">
                                         <div class="hover-content">
-                                            <h4><a href="portfolio-single.html">Bridal Shower</a></h4>
-                                           
+                                            <h4><a href="portfolio-single.html">Baptism </a></h4>
+                                       
                                         </div>
                                     </div>
                                 </div>
                                 <div class="grid">
                                     <div class="img-holder">
-                                        <img src="assets/images/portfolio/geatt.jpeg" alt="">
+                                        <img src="assets/images/portfolio/granew.jpeg" alt="">
                                         <div class="hover-content">
-                                            <h4><a href="portfolio-single.html">Liora Events</a></h4>
-                                         
+                                            <h4><a href="portfolio-single.html">Graduation </a></h4>
+                                     
                                         </div>
                                     </div>
                                 </div>
                                 <div class="grid">
                                     <div class="img-holder">
-                                        <img src="assets/images/portfolio/wdport2.jpeg" alt="">
+                                        <img src="assets/images/portfolio/babtismnew2.jpg" alt="">
                                         <div class="hover-content">
-                                            <h4><a href="portfolio-single.html">Wedding Decore</a></h4>
+                                            <h4><a href="portfolio-single.html">Decors</a></h4>
+                                        
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="grid">
+                                    <div class="img-holder">
+                                        <img src="assets/images/portfolio/flower1.jpg" alt="">
+                                        <div class="hover-content">
+                                            <h4><a href="portfolio-single.html">Wedding</a></h4>
                                           
                                         </div>
                                     </div>
                                 </div>
                                 <div class="grid">
                                     <div class="img-holder">
-                                        <img src="assets/images/portfolio/bride7.jpg" alt="">
+                                        <img src="assets/images/portfolio/nikah3.jpg" alt="">
                                         <div class="hover-content">
-                                            <h4><a href="portfolio-single.html">Wedding Decore</a></h4>
-                                          
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="grid">
-                                    <div class="img-holder">
-                                        <img src="assets/images/portfolio/wedd.jpeg" alt="">
-                                        <div class="hover-content">
-                                            <h4><a href="portfolio-single.html">liora decore</a></h4>
-                             
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="grid">
-                                    <div class="img-holder">
-                                        <img src="assets/images/portfolio/geatport.jpeg" alt="">
-                                        <div class="hover-content">
-                                            <h4><a href="portfolio-single.html">Liora Events</a></h4>
-                                         
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="grid">
-                                    <div class="img-holder">
-                                        <img src="assets/images/portfolio/birth.jpeg" alt="">
-                                        <div class="hover-content">
-                                            <h4><a href="portfolio-single.html">Liora Events</a></h4>
-                                          
+                                            <h4><a href="portfolio-single.html">Nikah</a></h4>
+                                            
                                         </div>
                                     </div>
                                 </div>

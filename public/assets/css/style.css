@@ -152,7 +152,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #002642;
+  color: hsl(12, 60%, 82%);
   font-family: "Futura PT";
   font-weight: 600;
 }
@@ -400,7 +400,7 @@ img {
 .wpo-section-title-s2 span {
   text-transform: capitalize;
   font-size: 20px;
-  color: #738ea5;
+  color: #d58675;
   font-family: "Muli";
 }
 @media (max-width: 575px) {
@@ -453,7 +453,7 @@ img {
   content: "";
   width: 100px;
   height: 1px;
-  background: #86a0b6;
+  background: hsl(12, 60%, 82%);
 }
 @media (max-width: 575px) {
   .wpo-section-title .section-title-img::before, .wpo-section-title .section-title-img::after,
@@ -527,7 +527,7 @@ img {
 .theme-btn.theme-btn-s3,
 .theme-btn-s3.theme-btn-s3,
 .theme-btn-s4.theme-btn-s3 {
-  background: #99337f;
+  background: hsl(12, 60%, 82%);
 }
 .theme-btn.theme-btn-s3:after,
 .theme-btn-s3.theme-btn-s3:after,
@@ -1027,7 +1027,7 @@ img {
 .blog-sidebar .widget h3 {
   font-size: 23px;
   font-size: 1.5333333333rem;
-  color: #002642;
+  color: hsl(12, 60%, 82%);
   margin: 0 0 1.3em;
   position: relative;
   text-transform: capitalize;
@@ -1152,7 +1152,7 @@ img {
   font-family: "Futura PT";
   font-size: 14px;
   font-size: 0.9333333333rem;
-  color: #002642;
+  color: hsl(12, 60%, 82%);
   text-decoration: underline;
 }
 .blog-sidebar .about-widget a:hover {
@@ -1449,7 +1449,7 @@ img {
 .wpo-shop-sidebar .widget_price_filter .filter-price button {
   font-family: "Futura PT";
   background: transparent;
-  color: #86a0b6;
+  color: hsl(12, 60%, 82%);
   font-size: 18px;
   font-size: 1.2rem;
   font-weight: 500;
@@ -1677,7 +1677,7 @@ img {
 --------------------------------------------------------------*/
 /*-- 2.1 topbar --*/
 .topbar {
-  background: #86a0b6;
+  background: black;
   padding: 0 60px;
 }
 
@@ -1695,7 +1695,7 @@ img {
 }
 .topbar {
   font-size: 16px;
-  color: #e5e3e3;
+  color: #d58675;
   margin: 0;
 }
 
@@ -1719,7 +1719,7 @@ img {
   font-size: 16px;
   float: left;
   padding: 15px 10px;
-  color: #fff;
+  color:  hsl(12, 60%, 82%);
   line-height: 1em;
 }
 @media (max-width: 991px) {
@@ -1729,7 +1729,7 @@ img {
 }
 
 .topbar .contact-info ul li a {
-  color: #fff;
+  color: hsl(12, 60%, 82%);
 }
 
 .topbar .contact-info ul li a:hover {
@@ -2910,10 +2910,10 @@ img {
   background: rgba(255, 255, 255, 0.1);
 }
 .wpo-header-style-3 .navigation.sticky-on {
-  background: #99337f;
+  background: black;
 }
 .wpo-header-style-3 #navbar > ul > li > a {
-  color: #fff;
+  color: hsl(12, 60%, 82%);
 }
 @media (min-width: 991px) {
   .wpo-header-style-3 #navbar > ul > li > a:before {
@@ -3355,7 +3355,7 @@ img {
 .static-hero .wpo-hero-title-top span,
 .wpo-hero-slider-s2 .wpo-hero-title-top span {
   font-size: 22px;
-  color: #e4e4e4;
+  color: hsl(12, 60%, 82%);
   font-family: "Futura PT";
 }
 @media (max-width: 767px) {
@@ -4102,7 +4102,7 @@ img {
 .wpo-hero-style-3 .wedding-announcement .couple-text h2 {
   font-size: 100px;
   font-weight: 500;
-  color: #fff;
+  color: hsl(12, 60%, 82%);
 }
 @media (max-width: 767px) {
   .wpo-hero-style-3 .wedding-announcement .couple-text h2 {
@@ -4117,7 +4117,7 @@ img {
 .wpo-hero-style-3 .wedding-announcement .couple-text p {
   font-size: 30px;
   font-family: "Futura PT";
-  color: #fff;
+  color: hsl(12, 60%, 82%);
   font-weight: 500;
 }
 @media (max-width: 767px) {
@@ -4517,7 +4517,7 @@ static-hero-s4
 }
 .wpo-site-footer .widget-title h3 {
   font-size: 20px;
-  color: #002642;
+  color: hsl(12, 60%, 82%);
   margin: 0;
   text-transform: uppercase;
   position: relative;
@@ -4746,7 +4746,7 @@ static-hero-s4
  
 }
 .wpo-service-section .wpo-service-item {
-  background: rgba(153, 51, 127, 0.4);
+  background: hsl(12, 60%, 82%);
   padding: 24px;
   
 }
@@ -5032,7 +5032,7 @@ static-hero-s4
   font-size: 4.6666666667rem;
   line-height: 40px;
   font-weight: 500;
-  color: #99337f;
+  color: hsl(12, 60%, 82%);
   margin: 0 0 0.1em;
   font-family: "Futura PT";
   display: flex;
@@ -5241,7 +5241,7 @@ static-hero-s4
 3.7 wpo-testimonials-section
 --------------------------------------------------------------*/
 .wpo-testimonials-section {
-  background: #edf3f8;
+  background: hsl(12deg 40% 92%);
   position: relative;
 }
 .wpo-testimonials-section .wpo-testimonials-shape {
@@ -5613,8 +5613,9 @@ static-hero-s4
   border-bottom: 1px solid #e4ebf2;
 }
 .wpo-pricing-section .wpo-pricing-wrap .wpo-pricing-item .wpo-pricing-top .wpo-pricing-img {
-  width: 170px;
-  height: 170px;
+  width: 200px;
+  height: 200px;
+
   padding: 10px;
   box-shadow: 0px 2px 16.8px 3.2px rgba(0, 38, 66, 0.08);
   background: #fff;
@@ -5976,7 +5977,7 @@ static-hero-s4
 .wpo-about-section-s2 .wpo-about-wrap .wpo-about-item .wpo-about-img,
 .wpo-about-section-s2 .wpo-about-wrap .wpo-about-item-s2 .wpo-about-img {
   padding: 20px;
-  background: #bc5ca4;
+  background: hsl(12, 60%, 82%);
 }
 .wpo-about-section .wpo-about-wrap .about-single-item,
 .wpo-about-section-s2 .wpo-about-wrap .about-single-item {
@@ -6078,7 +6079,7 @@ static-hero-s4
 .wpo-service-section-s2 .wpo-service-wrap .wpo-service-item .wpo-service-text .s-icon .fi:before,
 .wpo-service-section-s3 .wpo-service-wrap .wpo-service-item .wpo-service-text .s-icon .fi:before {
   font-size: 30px;
-  color: #86a0b6;
+  color: hsl(12, 60%, 82%);
 }
 .wpo-service-section-s2 .wpo-service-wrap .wpo-service-item .wpo-service-text a,
 .wpo-service-section-s3 .wpo-service-wrap .wpo-service-item .wpo-service-text a {
@@ -6321,7 +6322,7 @@ static-hero-s4
   font-size: 3.6rem;
   line-height: 1em;
   padding-top: 15px;
-  color: #5880a2;
+  color: hsl(12, 60%, 82%);
 }
 @media (max-width: 1200px) {
   .wpo-wedding-date #clock .time {
@@ -9074,7 +9075,7 @@ static-hero-s4
 }
 
 .rating-wrapper .theme-btn-s2 {
-  background:#627f98;
+  background:hsl(12, 60%, 82%);
   color: #fff;
 }
 .rating-wrapper .theme-btn-s2:hover {
@@ -10624,7 +10625,7 @@ static-hero-s4
   font-family: "Futura PT";
   max-width: 180px;
   background-color: #86a0b6;
-  color: #fff;
+  color: hsl(12, 60%, 82%);
   margin-bottom: 0;
   border: 0;
   outline: 0;
@@ -12415,7 +12416,7 @@ static-hero-s4
 }
 .color5 .wpo-header-style-3 .navigation.sticky-on,
 .color5 .wpo-service-details-text-3 {
-  background-color: #d1ac7a;
+  background-color: #d58675;
 }
 .color5 .wpo-pricing-section-s2 .wpo-section-title h2,
 .color5 .wpo-site-footer .wpo-lower-footer .copyright a {

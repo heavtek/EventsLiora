@@ -34,7 +34,7 @@
     <!-- start page-wrapper -->
     <div class="page-wrapper">
         <!-- start preloader -->
-      
+    
         
         <!-- end preloader -->
         <!-- Start header -->
@@ -137,7 +137,7 @@
                         <div class="wpo-about-wrap">
                             <div class="wpo-about-item">
                                 <div class="wpo-about-img">
-                                    <img src="assets/images/about/wedd.jpeg" alt="">
+                                    <img src="assets/images/about/babtismnew.jpg" alt="">
                                 </div>
                             </div>
                             <div class="ab-shape">
@@ -154,14 +154,12 @@
                             </div>
                             <div class="wpo-about-icon-content">
                                 <h2>Planner of Your Perfect Event</h2>
-                                <p>It is a long established fact that a reader will be distracted by the readable
-                                    content of a page when looking at its layout. The point of using Lorem Ipsum is
-                                    that it has a more-or-less normal distribution of letters, as opposed to using
+                                <p>Liora events and wedding planner will provide for you all your events needs from A – to – Z services,like social gatherings,weddings,corporate functions ,luxurious events,non profit fundraising and grand openings, or product launches  We 
                                 </p>
                                 <p>
-                                    Content here, content here', making it look like readable English. Many desktop
-                                    publishing packages and web page editors now use Lorem Ipsum as their default
-                                    model text.</p>
+                                help you plan your event from start to finish, starting with finding the perfect venue and event partners to realize your idea.
+You receive more than an experienced event planner and creative collaborator when you work with Liora events and wedding planner </p>
+<p>you gain a friend and an advocate ,you can trust our professional event planners to make your special event a memorable and successful. Through our event team planning and services in addis Ababa Ethiopia</p>
                                 <ul>
                                     <li>Going through the cites of the word in classical.</li>
                                     <li>There are many variations of passages.</li>
@@ -286,34 +284,34 @@
                                 </div>
                                 <div class="grid">
                                     <div class="img-holder">
-                                        <img src="assets/images/portfolio/brport.jpeg" alt="">
+                                        <img src="assets/images/portfolio/babtismnew.jpg" alt="">
                                         <div class="hover-content">
-                                            <h4><a href="portfolio-single.html">Bridal Shower</a></h4>
+                                            <h4><a href="portfolio-single.html">Baptism </a></h4>
                                        
                                         </div>
                                     </div>
                                 </div>
                                 <div class="grid">
                                     <div class="img-holder">
-                                        <img src="assets/images/portfolio/wdport.jpeg" alt="">
+                                        <img src="assets/images/portfolio/granew.jpeg" alt="">
                                         <div class="hover-content">
-                                            <h4><a href="portfolio-single.html">Wedding Decore</a></h4>
+                                            <h4><a href="portfolio-single.html">Graduation </a></h4>
                                      
                                         </div>
                                     </div>
                                 </div>
                                 <div class="grid">
                                     <div class="img-holder">
-                                        <img src="assets/images/portfolio/geatport.jpeg" alt="">
+                                        <img src="assets/images/portfolio/babtismnew2.jpg" alt="">
                                         <div class="hover-content">
-                                            <h4><a href="portfolio-single.html">Geat</a></h4>
+                                            <h4><a href="portfolio-single.html">Decors</a></h4>
                                         
                                         </div>
                                     </div>
                                 </div>
                                 <div class="grid">
                                     <div class="img-holder">
-                                        <img src="assets/images/portfolio/wdport2.jpeg" alt="">
+                                        <img src="assets/images/portfolio/flower1.jpg" alt="">
                                         <div class="hover-content">
                                             <h4><a href="portfolio-single.html">Wedding</a></h4>
                                           
