@@ -188,20 +188,20 @@
                         <div class="wpo-about-wrap">
                             <div class="wpo-about-item">
                                 <div class="wpo-about-img">
-                                    <img src="assets/images/about/babtismnew.jpg" alt="">
+                                    <img src="assets/images/about/13.jpg" alt="">
                                 </div>
                             </div>
-                            <div class="ab-shape">
-                                <img src="assets/images/about/shape.png" alt="">
+                            <div class="section-title-img">
+                            <img src="assets/images/about/shape6.png" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-12 col-12">
                         <div class="wpo-about-text">
                             <div class="wpo-about-icon">
-                                <div class="icon">
-                                    <img src="assets/images/about/thumb.png" alt="">
-                                </div>
+                            <div class="section-title-img">
+                            <img src="assets/images/about/shape6.png" alt="">
+                            </div>
                             </div>
                             <div class="wpo-about-icon-content">
                                 <h2>Planner of Your Perfect Event</h2>
@@ -237,9 +237,8 @@
                         <span>Events</span>
                         <h2>Celebrating Your event</h2>
                         <div class="section-title-img">
-                            <img src="assets/images/section-title.png" alt="">
-                        </div>
-                    </div>
+                            <img src="assets/images/about/shape6.png" alt="">
+                            </div>
                 </div>
                 <div class="sortable-gallery">
                     <div class="gallery-filters"></div>
@@ -275,9 +274,9 @@
                                 </div>
                                 <div class="grid">
                                     <div class="img-holder">
-                                        <img src="assets/images/portfolio/babtismnew2.jpg" alt="">
+                                        <img src="assets/images/portfolio/GRADUATIONNEW.jpg" alt="">
                                         <div class="hover-content">
-                                            <h4><a href="portfolio-single.html">Decors</a></h4>
+                                            <h4><a href="portfolio-single.html">GRADUATION</a></h4>
                                         
                                         </div>
                                     </div>
@@ -286,7 +285,7 @@
                                     <div class="img-holder">
                                         <img src="assets/images/portfolio/flower1.jpg" alt="">
                                         <div class="hover-content">
-                                            <h4><a href="portfolio-single.html">Wedding</a></h4>
+                                            <h4><a href="portfolio-single.html">FLOWER ARRANGEMENT</a></h4>
                                           
                                         </div>
                                     </div>
@@ -320,20 +319,20 @@
                         <span>Our Team</span>
                         <h2>Meet Our Planners</h2>
                         <div class="section-title-img">
-                            <img src="assets/images/section-title.png" alt="">
-                        </div>
+                            <img src="assets/images/about/shape6.png" alt="">
+                            </div>
                     </div>
                 </div>
                 <div class="wpo-team-wrap">
                     <div class="row">
-                        <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                        <div class="col-lg-9 col-md-4 col-sm-6 col-12">
                             <div class="wpo-team-item">
                                 <div class="wpo-team-img">
-                                    <img src="assets/images/team/img-1.jpg" alt="">
+                                    <img src="assets/images/team/avater.jfif" alt="">
                                 </div>
                                 <div class="wpo-team-text">
-                                    <h3><a href="team-single.html">Mekidi </a></h3>
-                                    <span>Planner</span>
+                                    <h3><a href="team-single.html">Maki Ashenafi </a></h3>
+                                    <span>Founder & Event Planner</span>
                                     <ul>
                                         <li><a href="#"> <i class="ti-facebook"></i></a></li>
                                         <li><a href="#"> <i class="ti-twitter-alt"></i></a></li>
@@ -343,57 +342,9 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6 col-12">
-                            <div class="wpo-team-item">
-                                <div class="wpo-team-img">
-                                    <img src="assets/images/team/img-2.jpg" alt="">
-                                </div>
-                                <div class="wpo-team-text">
-                                    <h3><a href="team-single.html">Someone else</a></h3>
-                                    <span>Makeup Artist</span>
-                                    <ul>
-                                        <li><a href="#"> <i class="ti-facebook"></i></a></li>
-                                        <li><a href="#"> <i class="ti-twitter-alt"></i></a></li>
-                                        <li><a href="#"> <i class="ti-linkedin"></i></a></li>
-                                        <li><a href="#"> <i class="ti-instagram"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6 col-12">
-                            <div class="wpo-team-item">
-                                <div class="wpo-team-img">
-                                    <img src="assets/images/team/img-3.jpg" alt="">
-                                </div>
-                                <div class="wpo-team-text">
-                                    <h3><a href="team-single.html">someone else </a></h3>
-                                    <span>Planner</span>
-                                    <ul>
-                                        <li><a href="#"> <i class="ti-facebook"></i></a></li>
-                                        <li><a href="#"> <i class="ti-twitter-alt"></i></a></li>
-                                        <li><a href="#"> <i class="ti-linkedin"></i></a></li>
-                                        <li><a href="#"> <i class="ti-instagram"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6 col-12">
-                            <div class="wpo-team-item">
-                                <div class="wpo-team-img">
-                                    <img src="assets/images/team/img-4.jpg" alt="">
-                                </div>
-                                <div class="wpo-team-text">
-                                    <h3><a href="team-single.html">someone else</a></h3>
-                                    <span>Photographer</span>
-                                    <ul>
-                                        <li><a href="#"> <i class="ti-facebook"></i></a></li>
-                                        <li><a href="#"> <i class="ti-twitter-alt"></i></a></li>
-                                        <li><a href="#"> <i class="ti-linkedin"></i></a></li>
-                                        <li><a href="#"> <i class="ti-instagram"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
+                      
+                      
+                      
                     </div>
                 </div>
 

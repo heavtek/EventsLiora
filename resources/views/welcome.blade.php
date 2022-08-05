@@ -219,7 +219,7 @@
         <section class="wpo-hero-slider wpo-hero-style-3">
             <div class="wedding-announcement">
                 <div class="couple-text">
-                    <h2 class="wow slideInUp" data-wow-duration="1s">Liora Events & wedding</h2>
+                    <h2 class="wow slideInUp" data-wow-duration="1s">Liora Events & weddings</h2>
                     <p class="wow slideInUp" data-wow-duration="1.8s">Plan your perfect Event</p>
                     <!-- start wpo-wedding-date -->
                     <div class="wpo-wedding-date wow slideInUp" data-wow-duration="2.1s">
@@ -430,7 +430,7 @@
                                 <div class="wpo-pricing-item">
                                     <div class="wpo-pricing-top">
                                         <div class="wpo-pricing-img">
-                                        <a href="/service_detail"><img src="assets/images/pricing/img-2.jpg" alt=""></a>
+                                        <a href="/service_detail"><img src="assets/images/pricing/weddingevent2.jpg" alt=""></a>
                                         </div>
                                         <div class="wpo-pricing-text">
                                             <h4>WEDDINGS</h4>
@@ -440,7 +440,7 @@
                                     <div class="wpo-pricing-bottom">
                                         <div class="wpo-pricing-bottom-text">
                                             <ul>
-                                               <P>With every last detail taken care of,we're here to ensure the day you've always dreamed of will be the day you'll never forget</P>
+                                    With every last detail taken care of,we're here to ensure the day you've always dreamed of will be the day you'll never forget
                                             </ul>
                                           
                                         </div>
@@ -451,7 +451,7 @@
                                 <div class="wpo-pricing-item">
                                     <div class="wpo-pricing-top">
                                         <div class="wpo-pricing-img">
-                                        <a href="/coporate_service">  <img src="assets/images/pricing/fe-30.jpg" alt=""></a>
+                                        <a href="/coporate_service">  <img src="assets/images/pricing/coporateevent.jpg" alt=""></a>
                                         </div>
                                         <div class="wpo-pricing-text">
                                             <h4>CORPORATE EVENTS</h4>
@@ -472,7 +472,7 @@
                                 <div class="wpo-pricing-item">
                                     <div class="wpo-pricing-top">
                                         <div class="wpo-pricing-img">
-                                        <a href="/socoal_service">   <img src="assets/images/pricing/graduation5.jfif" alt=""></a>
+                                        <a href="/socoal_service">   <img src="assets/images/pricing/social2.jpg" alt=""></a>
                                         </div>
                                         <div class="wpo-pricing-text">
                                             <h4>SOCIAL GATHRINGS</h4>
@@ -503,7 +503,7 @@
                                     <div class="wpo-pricing-bottom">
                                         <div class="wpo-pricing-bottom-text">
                                             
-                                           <p>  h every last detail taken care of,we're here to ensure the day you've always dreamed of will be the day you'll never forget</p>
+                                           <p>  every last detail taken care of,we're here to ensure the day you've always dreamed of will be the day you'll never forget</p>
                                         </div>
                                     </div>
                                 </div>

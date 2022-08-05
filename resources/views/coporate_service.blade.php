@@ -188,10 +188,10 @@
                 <div class="row">
                     <div class="col col-xs-12">
                         <div class="wpo-breadcumb-wrap">
-                            <h2>Coporate</h2>
+                            <h2>corporate</h2>
                             <ol class="wpo-breadcumb-wrap">
                                 <li><a href="/">Home</a></li>
-                                <li>Coporate</li>
+                                <li>Corporate</li>
                             </ol>
                         </div>
                     </div>
@@ -223,7 +223,7 @@
                            
                         <div class="wpo-about-item-s2 wow rollIn" data-wow-duration="2s">
                                     <div class="wpo-about-img">
-                                        <img src="assets/images/about/bridal5.jpg" alt="" width="900px">
+                                        <img src="assets/images/about/copporate2.jpg" alt="" width="900px">
                                     </div>
                      
                                    </div>    
@@ -289,84 +289,112 @@
                
             </div>
         </div>
-           <section class="wpo-contact-section section-padding">
-                <div class="container">
-                    <div class="wpo-contact-section-wrapper">
-                        <div class="wpo-contact-form-area">
-                            <div class="wpo-section-title">
-                                <span>Let’s Meet</span>
-                                <h2>Make an inquiry</h2>
-                                <div class="section-title-img">
-                                    <img src="assets/images/section-title.png" alt="">
-                                </div>
+        <section class="wpo-contact-pg-section section-padding">
+            <div class="container">
+                <div class="row">
+                    <div class="col col-lg-10 offset-lg-1">
+                        <div class="office-info">
+                            <div class="row">
+                                <div class="col col-xl-4 col-lg-6 col-md-6 col-12">
+                                    <div class="office-info-item">
+                                        <div class="office-info-icon">
+                                            <div class="icon">
+                                                <i class="fi flaticon-maps-and-flags"></i>
+                                            </div>
+                                        </div>
+                                        <div class="office-info-text">
+                                            <h2>Address</h2>
+                                            <p>Bole Atlas, around </p>
+                                        </div>
+                                    </div>
+                                </div> 
+                                <div class="col col-xl-4 col-lg-6 col-md-6 col-12">
+                                    <div class="office-info-item">
+                                        <div class="office-info-icon">
+                                            <div class="icon">
+                                                <i class="fi flaticon-email"></i>
+                                            </div>
+                                        </div>
+                                        <div class="office-info-text">
+                                            <h2>Email Us</h2>
+                                            <p>Liora@gmail.com</p>
+                                            <p>LioraEventsu@gmail.com</p>
+                                        </div>
+                                    </div>
+                                </div> 
+                                <div class="col col-xl-4 col-lg-6 col-md-6 col-12">
+                                    <div class="office-info-item">
+                                        <div class="office-info-icon">
+                                            <div class="icon">
+                                                <i class="fi flaticon-phone-call"></i>
+                                            </div>
+                                        </div>
+                                        <div class="office-info-text">
+                                            <h2>Call Now</h2>
+                                            <p>+2519567898</p>
+                                            <p>+2519768767</p>
+                                        </div>
+                                    </div>
+                                </div> 
                             </div>
+                        </div>
+                        <div class="wpo-contact-title">
+                            <h2>Have Any Question?</h2>
+                            <p>Contact Us.</p>
+                        </div>
+                        <div class="wpo-contact-form-area">
                             <form method="post" class="contact-validation-active" id="contact-form-main">
                                 <div>
-                                    <input type="text" class="form-control" name="name" id="name" placeholder="Name">
+                                    <input type="text" class="form-control" name="name" id="name" placeholder="Your Name*">
                                 </div>
                                 <div>
-                                    <input type="email" class="form-control" name="email" id="email"
-                                        placeholder="Email">
+                                    <input type="email" class="form-control" name="email" id="email" placeholder="Your Email*">
                                 </div>
                                 <div>
-                                    <input type="text" class="form-control" name="adress" id="adress"
-                                        placeholder="Adress">
+                                    <input type="text" class="form-control" name="adress" id="adress" placeholder="Adress">
                                 </div>
                                 <div>
                                     <select name="service" class="form-control">
-                                        <option disabled="disabled" selected>Services</option>
-                                        <option>Photography</option>
-                                        <option>The Rehearsal Dinner</option>
-                                        <option>The Afterparty</option>
-                                        <option>Videographers</option>
-                                        <option>Perfect Cake</option>
-                                        <option>All Of The Above</option>
+                                        <option disabled="disabled" selected="">Services</option>
+                                        <option>Wedding Decore</option>
+                                        <option>Engagement</option>
+                                        <option>Bridal Shower</option>
+                                        <option>Baby Shower</option>
+                                        <option>Baptisim</option>
+                                        <option>Graduation</option>
+                                        <option>Birthday</option>
+                                        <option>Geat</option>
+                                        <option>Nikah</option>
                                     </select>
                                 </div>
-                                <div>
-                                    <select name="guest" class="form-control">
-                                        <option disabled="disabled" selected>Number Of Guests</option>
-                                        <option>01</option>
-                                        <option>02</option>
-                                        <option>03</option>
-                                        <option>04</option>
-                                        <option>05</option>
-                                    </select>
-                                </div>
-                                <div>
-                                    <select name="meal" class="form-control last">
-                                        <option disabled="disabled" selected>Meal Preferences</option>
-                                        <option>Chicken Soup</option>
-                                        <option>Motton Kabab</option>
-                                        <option>Chicken BBQ</option>
-                                        <option>Mix Salad</option>
-                                        <option>Beef Ribs </option>
-                                    </select>
+                                <div class="fullwidth">
+                                    <textarea class="form-control" name="note"  id="note" placeholder="Message..."></textarea>
                                 </div>
                                 <div class="submit-area">
-                                    <button type="submit" class="theme-btn-s3">Send An Inquiry</button>
-                                    <div id="c-loader">
+                                    <button type="submit" class="theme-btn-s4">Get in Touch</button>
+                                    <div id="loader">
                                         <i class="ti-reload"></i>
                                     </div>
                                 </div>
                                 <div class="clearfix error-handling-messages">
                                     <div id="success">Thank you</div>
-                                    <div id="error"> Error occurred while sending email. Please try again later.
-                                    </div>
+                                    <div id="error"> Error occurred while sending email. Please try again later. </div>
                                 </div>
                             </form>
-                            <div class="border-style"></div>
                         </div>
-                        <div class="vector-1">
-                            <img src="assets/images/contact/1.png" alt="">
-                        </div>
-                        <div class="vector-2">
-                            <img src="assets/images/contact/2.png" alt="">
-                        </div>
-                    </div>
+                    </div>                
                 </div>
-            </section>
-        <!-- .team-pg-area end -->
+            </div> <!-- end container -->
+        </section>
+        <!-- end wpo-contact-pg-section -->
+
+        <!--  start wpo-contact-map -->
+        <section class="wpo-contact-map-section">
+            <h2 class="hidden">Contact map</h2>
+            <div class="wpo-contact-map">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d193595.9147703055!2d-74.11976314309273!3d40.69740344223377!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbd!4v1547528325671" allowfullscreen></iframe>
+            </div>
+        </section>\                                                                                                                                                                                                                                                                                                    
         <!-- start of wpo-site-footer-section -->
         <footer class="wpo-site-footer">
             <div class="wpo-upper-footer">

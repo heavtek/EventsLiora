@@ -223,7 +223,7 @@
                            
                         <div class="wpo-about-item-s2 wow rollIn" data-wow-duration="2s">
                                     <div class="wpo-about-img">
-                                        <img src="assets/images/about/bridal5.jpg" alt="" width="900px">
+                                        <img src="assets/images/about/social3.jpg" alt="" width="900px">
                                     </div>
                      
                                    </div>    
