@@ -116,8 +116,14 @@
                                             <a href="/">Home</a>
                                           
                                         </li>
-                                        <li>
-                                            <a href="/service">Service</a>
+                                        <li class="menu-item-has-children">
+                                            <a class="active" href="#">Service</a>
+                                            <ul class="sub-menu">
+                                                <li><a class="active" href="/service_detail">WEDDINGS</a></li>
+                                                <li><a href="/coporate_service">COPORATE EVENTS</a></li>
+                                                <li><a href="/socoal_service">SOCIAL GATHERING</a></li>
+                                                <li><a href="rsvp.html">FLOWER ARRANGEMENT</a></li>
+                                            </ul>
                                         </li>
                                         <li>
                                             <a href="/about">About</a>
@@ -424,7 +430,7 @@
                                 <div class="wpo-pricing-item">
                                     <div class="wpo-pricing-top">
                                         <div class="wpo-pricing-img">
-                                            <img src="assets/images/pricing/img-2.jpg" alt="">
+                                        <a href="/service_detail"><img src="assets/images/pricing/img-2.jpg" alt=""></a>
                                         </div>
                                         <div class="wpo-pricing-text">
                                             <h4>WEDDINGS</h4>
@@ -445,7 +451,7 @@
                                 <div class="wpo-pricing-item">
                                     <div class="wpo-pricing-top">
                                         <div class="wpo-pricing-img">
-                                            <img src="assets/images/pricing/fe-30.jpg" alt="">
+                                        <a href="/coporate_service">  <img src="assets/images/pricing/fe-30.jpg" alt=""></a>
                                         </div>
                                         <div class="wpo-pricing-text">
                                             <h4>CORPORATE EVENTS</h4>
@@ -455,7 +461,7 @@
                                     <div class="wpo-pricing-bottom">
                                         <div class="wpo-pricing-bottom-text">
                                             <ul>
-                                            h every last detail taken care of,we're here to ensure the day you've always dreamed of will be the day you'll never forget
+                                            Wow your guests with a unique corporate experience that aligns with your company's mission and elevates your brand.
                                             </ul>
                                          
                                         </div>
@@ -466,7 +472,7 @@
                                 <div class="wpo-pricing-item">
                                     <div class="wpo-pricing-top">
                                         <div class="wpo-pricing-img">
-                                            <img src="assets/images/pricing/graduation5.jfif" alt="">
+                                        <a href="/socoal_service">   <img src="assets/images/pricing/graduation5.jfif" alt=""></a>
                                         </div>
                                         <div class="wpo-pricing-text">
                                             <h4>SOCIAL GATHRINGS</h4>
@@ -476,8 +482,7 @@
                                     <div class="wpo-pricing-bottom">
                                         <div class="wpo-pricing-bottom-text">
                                             <ul>
-                                          
-                                            With every last detail taken care of,we're here to ensure the day you've always dreamed of will be the day you'll never forget
+                                            From a show stopping engagement celebration to an epic surprise birthday party, you dream it and we'll make it a reality. 
                                             </ul>
                                           
                                     </div>
@@ -588,7 +593,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="wpo-section-title">
-                            <span>Pricing</span>
+                            <span>Packages</span>
                             <h2>Event Plan Packages</h2>
                             <div class="section-title-img">
                            <img src="assets/images/about/shape6.png" alt="">
@@ -605,7 +610,7 @@
                                         </div>
                                         <div class="wpo-pricing-text">
                                             <h4>Basic Package</h4>
-                                            <h2>10,000birr<span>onetime</span></h2>
+                                            <h2><span></span></h2>
                                         </div>
                                     </div>
                                     <div class="wpo-pricing-bottom">
@@ -630,7 +635,7 @@
                                         </div>
                                         <div class="wpo-pricing-text">
                                             <h4>Standard Package</h4>
-                                            <h2>40000<span>one time</span></h2>
+                                            <h2><span></span></h2>
                                         </div>
                                     </div>
                                     <div class="wpo-pricing-bottom">
@@ -654,7 +659,7 @@
                                         </div>
                                         <div class="wpo-pricing-text">
                                             <h4>Luxary Package</h4>
-                                            <h2>100000<span>one time</span></h2>
+                                            <h2><span></span></h2>
                                         </div>
                                     </div>
                                     <div class="wpo-pricing-bottom">
@@ -681,7 +686,7 @@
                     <div class="col col-lg-6 offset-lg-6">
                          <div class="offer-banner-text">
                              <h3>WEDDING SEASON DISCOUNT</h3>
-                             <h2><span>up to</span>50% OFF</h2>
+                             <h2><span></span></h2>
                 
                         <a class="theme-btn-s2" href="/contact">Contact Us</a>
                          </div>

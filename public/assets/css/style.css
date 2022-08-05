@@ -5774,7 +5774,7 @@ static-hero-s4
 }
 .wpo-contact-section .wpo-contact-section-wrapper .wpo-contact-form-area {
   padding: 60px 40px;
-  border: 30px solid #cde0ef;
+  border: 30px solid  hsl(12deg 60% 82%);
   position: relative;
   z-index: 99;
 }
@@ -5982,6 +5982,8 @@ static-hero-s4
 .wpo-about-section-s2 .wpo-about-wrap .wpo-about-item-s2 .wpo-about-img {
   padding: 20px;
   background: hsl(12, 60%, 82%);
+  width: 300px;
+  height: 300px;
 }
 .wpo-about-section .wpo-about-wrap .about-single-item,
 .wpo-about-section-s2 .wpo-about-wrap .about-single-item {
@@ -7288,10 +7290,11 @@ static-hero-s4
 }
 
 .wpo-about-section-s2 .wpo-about-wrap .wpo-about-item {
-  max-width: 505px;
+  width: 340px;
 }
 .wpo-about-section-s2 .wpo-about-wrap .wpo-about-item .wpo-about-img img {
-  width: 100%;
+  width: 300px;
+  height:250px
 }
 .wpo-about-section-s2 .wpo-about-text {
   padding-left: 0;
@@ -9092,6 +9095,7 @@ static-hero-s4
 .team-pg-area {
   max-width: 1080px;
   margin: 0 auto;
+  margin-top: -163px;
 }
 
 .team-info-img {
@@ -9133,7 +9137,7 @@ static-hero-s4
   color: #1d2327;
   font-weight: 700;
   margin-bottom: 22px;
-  list-style: none;
+  list-style: disc;
 }
 .team-info-text ul li:last-child {
   padding-bottom: 0;
@@ -9162,11 +9166,11 @@ static-hero-s4
 .team-info-text h2 {
   font-size: 27px;
   font-weight: 700;
-  color: #1d2327;
+  color: white;
   margin-top: 0;
   margin-bottom: 25px;
   text-align: center;
-  background: #eee;
+  background:hsl(12deg 60% 82%);
   padding: 20px;
 }
 

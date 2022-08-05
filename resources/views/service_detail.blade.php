@@ -3,14 +3,14 @@
 <html lang="en">
 
 
-<!-- Mirrored from wpocean.com/html/tf/loveme/service-single.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 17 Jun 2022 12:23:00 GMT -->
+<!-- Mirrored from wpocean.com/html/tf/loveme/team-single.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 17 Jun 2022 12:22:55 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="wpOceans">
     <link rel="shortcut icon" type="image/png" href="assets/images/favicon.png">
-    <title> Liora - Events & Wedding </title>
+    <title> Loveme - Wedding & Wedding Planner HTML5 Template</title>
     <link href="assets/css/themify-icons.css" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
     <link href="assets/css/flaticon.css" rel="stylesheet">
@@ -34,7 +34,17 @@
     <!-- start page-wrapper -->
     <div class="page-wrapper">
         <!-- start preloader -->
-      
+        <div class="preloader">
+            <div class="vertical-centered-box">
+                <div class="content">
+                    <div class="loader-circle"></div>
+                    <div class="loader-line-mask">
+                        <div class="loader-line"></div>
+                    </div>
+                    <img src="assets/images/favicon.png" alt="">
+                </div>
+            </div>
+        </div>
         <!-- end preloader -->
         <!-- Start header -->
         <header id="header">
@@ -73,8 +83,14 @@
                                             <a href="/">Home</a>
                                           
                                         </li>
-                                        <li>
-                                            <a href="/service">Service</a>
+                                        <li class="menu-item-has-children">
+                                            <a class="active" href="#">Service</a>
+                                            <ul class="sub-menu">
+                                                <li><a class="active" href="/service_detail">WEDDINGS</a></li>
+                                                <li><a href="/coporate_service">COPORATE EVENTS</a></li>
+                                                <li><a href="/socoal_service">SOCIAL GATHERING</a></li>
+                                                <li><a href="rsvp.html">FLOWER ARRANGEMENT</a></li>
+                                            </ul>
                                         </li>
                                         <li>
                                             <a href="/about">About</a>
@@ -164,7 +180,7 @@
                     </div><!-- end of container -->
                 </nav>
             </div>
-        </header>
+        </header> 
         <!-- end of header -->
         <!-- start wpo-page-title -->
         <section class="wpo-page-title">
@@ -172,155 +188,177 @@
                 <div class="row">
                     <div class="col col-xs-12">
                         <div class="wpo-breadcumb-wrap">
-                            <h2>Wedding Decore</h2>
+                            <h2>Wedding Service</h2>
                             <ol class="wpo-breadcumb-wrap">
                                 <li><a href="/">Home</a></li>
-                                <li>Service</li>
-                                <li>Wedding Decore</li>
+                                <li>Weddings</li>
                             </ol>
                         </div>
                     </div>
                 </div> <!-- end row -->
             </div> <!-- end container -->
         </section>
-        <!-- end page-title -->
-        <div class="wpo-service-details-area section-padding">
+        <section class="wpo-about-section-s2 section-padding">
             <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-12">
-                        <div class="wpo-minimal-wrap">
-                            <div class="wpo-minimal-img">
-                                <img src="assets/images/service-single/wed5.jpeg" alt="">
-                            </div>
-                            <ul>
-                                <li class="video-holder">
-                                    <a href="https://www.youtube.com/embed/sZz4w88hzoE?autoplay=1" class="video-btn"
-                                        data-type="iframe" tabindex="0"></a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="wpo-service-details-list">
-                            <div class="row">
-                                <div class="col co-l-lg-4 col-md-4 col-sm-6 col-12">
-                                    <div class="wpo-service-details-text">
-                               
-                                <img src="assets/images/service-single/wed5.jpeg" alt="">
-                 
-                                    </div>
-                                </div>
-                                <div class="col co-l-lg-4 col-md-4 col-sm-6 col-12">
-                                    <div class="wpo-service-details-text-3">
-                                    <img src="assets/images/service-single/makeup1.jpg" alt="">
-                                    </div>
-                                </div>
-                                <div class="col co-l-lg-4 col-md-4 col-sm-6 col-12">
-                                    <div class="wpo-service-details-text">
-                                    <img src="assets/images/service-single/manu3.jpg" alt="">
-                                    </div>
+                <div class="row align-items-center">
+                    <div class="col-lg-6 col-md-12 col-12">
+                        <div class="wpo-about-wrap">
+                            <div class="wpo-about-item">
+                                <div class="wpo-about-img">
+                                    <img src="assets/images/about/babtismnew.jpg" alt="">
                                 </div>
                             </div>
-                        </div>
-                        <div class="wpo-p-details-section">
-                            
-                                <div class="process-wrap">
-                                    <h5>Our work process</h5>
-                                    <div class="row">
-                                        <div class="col-lg-4 col-md-6 col-12">
-                                             <div class="process-item">
-                                                 <div class="process-icon">
-                                                      <i class="fi flaticon-dove"></i>
-                                                 </div>
-                                                 <div class="process-text">
-                                                     <h3>Research and analytics</h3>
-                                                     <p>If you are going to use a passage of Lorem Ipsum, you
-                                                        need to be sure there isn't.</p>
-                                                 </div>
-                                             </div>
-                                        </div>
-                                        <div class="col-lg-4 col-md-6 col-12">
-                                             <div class="process-item">
-                                                 <div class="process-icon">
-                                                      <i class="fi flaticon-edit"></i>
-                                                 </div>
-                                                 <div class="process-text">
-                                                     <h3>Design and Idea</h3>
-                                                     <p>If you are going to use a passage of Lorem Ipsum, you
-                                                        need to be sure there isn't.</p>
-                                                 </div>
-                                             </div>
-                                        </div>
-                                        <div class="col-lg-4 col-md-6 col-12">
-                                             <div class="process-item">
-                                                 <div class="process-icon">
-                                                      <i class="fi flaticon-wedding"></i>
-                                                 </div>
-                                                 <div class="process-text">
-                                                     <h3>All Event Manage</h3>
-                                                     <p>If you are going to use a passage of Lorem Ipsum, you
-                                                        need to be sure there isn't.</p>
-                                                 </div>
-                                             </div>
-                                        </div>
-                                    </div>   
-                                </div>
-
-                         
-                            <div class="row">
-                                <div class="col-md-6 col-sm-6 col-12">
-                                    <div class="wpo-p-details-img">
-                                        <img src="assets/images/service-single/img-2.jpg" alt="">
-                                    </div>
-                                </div>
-                                <div class="col-md-6 col-sm-6 col-12">
-                                    <div class="wpo-p-details-img">
-                                        <img src="assets/images/service-single/img-5.jpg" alt="">
-                                    </div>
-                                </div>
+                            <div class="ab-shape">
+                                <img src="assets/images/about/shape.png" alt="">
                             </div>
-                            <p>This are some of our works we have doneThis are some of our works we have doneThis are some of our works we have doneThis are some of our works we have doneThis are some of our works we have done </p>
                         </div>
-                   
                     </div>
-                    <div class="col-lg-4 col-12">
-                        <div class="blog-sidebar">
-                            <div class="widget search-widget">
-                                <form>
-                                    <div>
-                                        <input type="text" class="form-control" placeholder="Search Post..">
-                                        <button type="submit"><i class="ti-search"></i></button>
-                                    </div>
-                                </form>
-                            </div>
-                            <div class="widget category-widget">
-                                <h3>Services</h3>
-                                <ul>
-                              
-                                    <li><a href="service-single.html"> Stylish makeup for bride <span>5000</span></a></li>
-                                    <li><a href="service-single.html">Photography <span>7000</span></a></li>
-                                    <li><a href="service-single.html">Manicure & Pedicure<span>3000</span></a></li>
-                                    <li><a href="service-single.html">Wedding Dress<span>60000</span></a></li>
-                                    <li><a href="service-single.html">Wedding Hall <span>200000</span></a></li>
-                                    <li><a href="service-single.html">Full body Polish<span>800</span></a></li>
-                                </ul>
-                            </div>
-                            <div class="widget wpo-instagram-widget">
-                                <div class="widget-title">
-                                    <h3>Instagram</h3>
+                    <div class="col-lg-6 col-md-12 col-12">
+                        <div class="wpo-about-text">
+                            <div class="wpo-about-icon">
+                                <div class="icon">
+                                    <img src="assets/images/about/thumb.png" alt="" style="width=30px">
                                 </div>
-                                <ul class="d-flex">
-                                    <li><a href="portfolio-single.html"><img src="assets/images/instragram/1.jpg" alt=""></a></li>
-                                    <li><a href="portfolio-single.html"><img src="assets/images/instragram/2.jpg" alt=""></a></li>
-                                    <li><a href="portfolio-single.html"><img src="assets/images/instragram/3.jpg" alt=""></a></li>
-                                    <li><a href="portfolio-single.html"><img src="assets/images/instragram/4.jpg" alt=""></a></li>
-                                    <li><a href="portfolio-single.html"><img src="assets/images/instragram/5.jpg" alt=""></a></li>
-                                    <li><a href="portfolio-single.html"><img src="assets/images/instragram/6.jpg" alt=""></a></li>
-                                </ul>
+                            </div>
+                            <div class="wpo-about-icon-content">
+                                <h2>Planner of Your Perfect Wedding Event</h2>
+                                <p> With every last detail taken care of,we're here to ensure the day you've always dreamed of will be the day you'll never forget  
+                                </p>
+                                <p>
+                              </p>
+                              
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+        </section>
+        <!-- end page-title -->
+        <!-- .team-pg-area start -->
+        <div class="team-pg-area section-padding">
+            <div class="container">
+                <div class="team-info-wrap">
+                    <div class="row align-items-center">
+                    <div class="col-lg-6">
+                            <div class="team-info-text">
+                            <div class="exprience-wrap">
+                                <h2></a>Events </h2>
+                              
+                            </div>
+                                <ul>
+                                <li>Engagement</li>
+                                    <li>Bridal shower/ bachelor party</li>
+                                    <li>ቸግ</li>
+                                    <li>ገአት</li>
+                                    <li>nikha</li>
+                                    <li>meles/kilekil</li>
+                                    <img src="assets/images/about/shape6.png"
+                                       style="width:100px"     alt="Liora Events & Weeding"></a>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="team-info-text">
+                            <div class="exprience-wrap">
+                                
+                                <h2>Services</h2>
+                              
+                            </div>
+                                <ul>
+                                <li>wedding planning</li>
+                                    <li>Decor</span></li>
+                                    <li>catering</li>
+                                    <li>photo</li>
+                                    <li>venue</li>
+                                    <li>makeup</li>
+                                    <li>band/Dj</li>
+                                    <li>outfit</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+               
+            </div>
         </div>
+           <section class="wpo-contact-section section-padding">
+                <div class="container">
+                    <div class="wpo-contact-section-wrapper">
+                        <div class="wpo-contact-form-area">
+                            <div class="wpo-section-title">
+                                <span>Let’s Meet</span>
+                                <h2>Make an inquiry</h2>
+                                <div class="section-title-img">
+                                    <img src="assets/images/section-title.png" alt="">
+                                </div>
+                            </div>
+                            <form method="post" class="contact-validation-active" id="contact-form-main">
+                                <div>
+                                    <input type="text" class="form-control" name="name" id="name" placeholder="Name">
+                                </div>
+                                <div>
+                                    <input type="email" class="form-control" name="email" id="email"
+                                        placeholder="Email">
+                                </div>
+                                <div>
+                                    <input type="text" class="form-control" name="adress" id="adress"
+                                        placeholder="Adress">
+                                </div>
+                                <div>
+                                    <select name="service" class="form-control">
+                                        <option disabled="disabled" selected>Services</option>
+                                        <option>Photography</option>
+                                        <option>The Rehearsal Dinner</option>
+                                        <option>The Afterparty</option>
+                                        <option>Videographers</option>
+                                        <option>Perfect Cake</option>
+                                        <option>All Of The Above</option>
+                                    </select>
+                                </div>
+                                <div>
+                                    <select name="guest" class="form-control">
+                                        <option disabled="disabled" selected>Number Of Guests</option>
+                                        <option>01</option>
+                                        <option>02</option>
+                                        <option>03</option>
+                                        <option>04</option>
+                                        <option>05</option>
+                                    </select>
+                                </div>
+                                <div>
+                                    <select name="meal" class="form-control last">
+                                        <option disabled="disabled" selected>Meal Preferences</option>
+                                        <option>Chicken Soup</option>
+                                        <option>Motton Kabab</option>
+                                        <option>Chicken BBQ</option>
+                                        <option>Mix Salad</option>
+                                        <option>Beef Ribs </option>
+                                    </select>
+                                </div>
+                                <div class="submit-area">
+                                    <button type="submit" class="theme-btn-s3">Send An Inquiry</button>
+                                    <div id="c-loader">
+                                        <i class="ti-reload"></i>
+                                    </div>
+                                </div>
+                                <div class="clearfix error-handling-messages">
+                                    <div id="success">Thank you</div>
+                                    <div id="error"> Error occurred while sending email. Please try again later.
+                                    </div>
+                                </div>
+                            </form>
+                            <div class="border-style"></div>
+                        </div>
+                        <div class="vector-1">
+                            <img src="assets/images/contact/1.png" alt="">
+                        </div>
+                        <div class="vector-2">
+                            <img src="assets/images/contact/2.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </section>
+        <!-- .team-pg-area end -->
         <!-- start of wpo-site-footer-section -->
         <footer class="wpo-site-footer">
             <div class="wpo-upper-footer">
@@ -462,5 +500,5 @@
 </body>
 
 
-<!-- Mirrored from wpocean.com/html/tf/loveme/service-single.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 17 Jun 2022 12:23:02 GMT -->
+<!-- Mirrored from wpocean.com/html/tf/loveme/team-single.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 17 Jun 2022 12:22:57 GMT -->
 </html>

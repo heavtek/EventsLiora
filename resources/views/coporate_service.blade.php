@@ -3,14 +3,14 @@
 <html lang="en">
 
 
-<!-- Mirrored from wpocean.com/html/tf/loveme/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 17 Jun 2022 12:22:55 GMT -->
+<!-- Mirrored from wpocean.com/html/tf/loveme/team-single.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 17 Jun 2022 12:22:55 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="wpOceans">
     <link rel="shortcut icon" type="image/png" href="assets/images/favicon.png">
-    <title>Liora events& wedding</title>
+    <title> Loveme - Wedding & Wedding Planner HTML5 Template</title>
     <link href="assets/css/themify-icons.css" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
     <link href="assets/css/flaticon.css" rel="stylesheet">
@@ -34,8 +34,17 @@
     <!-- start page-wrapper -->
     <div class="page-wrapper">
         <!-- start preloader -->
-    
-        
+        <div class="preloader">
+            <div class="vertical-centered-box">
+                <div class="content">
+                    <div class="loader-circle"></div>
+                    <div class="loader-line-mask">
+                        <div class="loader-line"></div>
+                    </div>
+                    <img src="assets/images/favicon.png" alt="">
+                </div>
+            </div>
+        </div>
         <!-- end preloader -->
         <!-- Start header -->
         <header id="header">
@@ -62,16 +71,26 @@
                             </div>
                                 </div>
                             </div>
+                           
                             <div class="col-lg-8 col-md-1 col-1">
+                         
                                 <div id="navbar" class="collapse navbar-collapse navigation-holder">
                                     <button class="menu-close"><i class="ti-close"></i></button>
+            
                                     <ul class="nav navbar-nav mb-2 mb-lg-0">
+                                 
                                         <li class="menu-item-has-children">
                                             <a href="/">Home</a>
                                           
                                         </li>
-                                        <li>
-                                            <a href="/service">Service</a>
+                                        <li class="menu-item-has-children">
+                                            <a class="active" href="#">Service</a>
+                                            <ul class="sub-menu">
+                                                <li><a class="active" href="/service_detail">WEDDINGS</a></li>
+                                                <li><a href="/coporate_service">COPORATE EVENTS</a></li>
+                                                <li><a href="/socoal_service">SOCIAL GATHERING</a></li>
+                                                <li><a href="rsvp.html">FLOWER ARRANGEMENT</a></li>
+                                            </ul>
                                         </li>
                                         <li>
                                             <a href="/about">About</a>
@@ -169,18 +188,16 @@
                 <div class="row">
                     <div class="col col-xs-12">
                         <div class="wpo-breadcumb-wrap">
-                            <h2>About</h2>
+                            <h2>Coporate</h2>
                             <ol class="wpo-breadcumb-wrap">
                                 <li><a href="/">Home</a></li>
-                                <li>About</li>
+                                <li>Coporate</li>
                             </ol>
                         </div>
                     </div>
                 </div> <!-- end row -->
             </div> <!-- end container -->
         </section>
-        <!-- end page-title -->
-        <!-- start of wpo-about-section -->
         <section class="wpo-about-section-s2 section-padding">
             <div class="container">
                 <div class="row align-items-center">
@@ -200,206 +217,131 @@
                         <div class="wpo-about-text">
                             <div class="wpo-about-icon">
                                 <div class="icon">
-                                    <img src="assets/images/about/thumb.png" alt="">
+                                    <img src="assets/images/about/thumb.png" alt="" style="width=30px">
                                 </div>
                             </div>
                             <div class="wpo-about-icon-content">
-                                <h2>Planner of Your Perfect Event</h2>
-                                <p>Liora events and wedding planner will provide for you all your events needs from A – to – Z services,like social gatherings,weddings,corporate functions ,luxurious events,non profit fundraising and grand openings, or product launches  We 
+                                <h2>Planner of Your Perfect coporate Event</h2>
+                                <p>   Wow your guests with a unique corporate experience that aligns with your company's mission and elevates your brand. 
                                 </p>
                                 <p>
-                                help you plan your event from start to finish, starting with finding the perfect venue and event partners to realize your idea.
-                       You receive more than an experienced event planner and creative collaborator when you work with Liora events and wedding planner </p>
-                         <p>you gain a friend and an advocate ,you can trust our professional event planners to make your special event a memorable and successful. Through our event team planning and services in addis Ababa Ethiopia</p>
-                                <ul>
-                                    <li>Going through the cites of the word in classical.</li>
-                                    <li>There are different packages depending on you event.</li>
-                                  
-                                </ul>
+                              </p>
+                              
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-        <!-- end of wpo-about-section -->
-        <!-- start wpo-service-section -->
-      
-        <!-- end wpo-service-section-->
-        <!-- start wpo-fun-fact-section -->
-       
-        <!-- end wpo-fun-fact-section -->
-        <!-- start wpo-portfolio-section -->
-        <section class="wpo-portfolio-section section-padding">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="wpo-section-title">
-                        <span>Events</span>
-                        <h2>Celebrating Your event</h2>
-                        <div class="section-title-img">
-                            <img src="assets/images/section-title.png" alt="">
-                        </div>
-                    </div>
-                </div>
-                <div class="sortable-gallery">
-                    <div class="gallery-filters"></div>
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="portfolio-grids gallery-container clearfix">
-                                <div class="grid">
-                                    <div class="img-holder">
-                                        <img src="assets/images/portfolio/1.jpg" alt="">
-                                        <div class="hover-content">
-                                            <h4><a href="portfolio-single.html">Engagement</a></h4>
-                                       
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="grid">
-                                    <div class="img-holder">
-                                        <img src="assets/images/portfolio/babtismnew.jpg" alt="">
-                                        <div class="hover-content">
-                                            <h4><a href="portfolio-single.html">Baptism </a></h4>
-                                       
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="grid">
-                                    <div class="img-holder">
-                                        <img src="assets/images/portfolio/granew.jpeg" alt="">
-                                        <div class="hover-content">
-                                            <h4><a href="portfolio-single.html">Graduation </a></h4>
-                                     
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="grid">
-                                    <div class="img-holder">
-                                        <img src="assets/images/portfolio/babtismnew2.jpg" alt="">
-                                        <div class="hover-content">
-                                            <h4><a href="portfolio-single.html">Decors</a></h4>
-                                        
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="grid">
-                                    <div class="img-holder">
-                                        <img src="assets/images/portfolio/flower1.jpg" alt="">
-                                        <div class="hover-content">
-                                            <h4><a href="portfolio-single.html">Wedding</a></h4>
-                                          
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="grid">
-                                    <div class="img-holder">
-                                        <img src="assets/images/portfolio/nikah3.jpg" alt="">
-                                        <div class="hover-content">
-                                            <h4><a href="portfolio-single.html">Nikah</a></h4>
-                                            
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div> <!-- end container -->
-        </section>
-        <!-- end wpo-portfolio-section -->
-
-        <!-- start wpo-pricing-section -->
-   
-        <!-- start wpo-pricing-section -->
-        <!-- start wpo-team-section -->
-        <section class="wpo-team-section section-padding pt-0">
+        <!-- end page-title -->
+        <!-- .team-pg-area start -->
+        <div class="team-pg-area section-padding">
             <div class="container">
-                <div class="row">
-                    <div class="wpo-section-title">
-                        <span>Our Team</span>
-                        <h2>Meet Our Planners</h2>
-                        <div class="section-title-img">
-                            <img src="assets/images/section-title.png" alt="">
-                        </div>
-                    </div>
-                </div>
-                <div class="wpo-team-wrap">
-                    <div class="row">
-                        <div class="col-lg-3 col-md-4 col-sm-6 col-12">
-                            <div class="wpo-team-item">
-                                <div class="wpo-team-img">
-                                    <img src="assets/images/team/img-1.jpg" alt="">
-                                </div>
-                                <div class="wpo-team-text">
-                                    <h3><a href="team-single.html">Mekidi </a></h3>
-                                    <span>Planner</span>
-                                    <ul>
-                                        <li><a href="#"> <i class="ti-facebook"></i></a></li>
-                                        <li><a href="#"> <i class="ti-twitter-alt"></i></a></li>
-                                        <li><a href="#"> <i class="ti-linkedin"></i></a></li>
-                                        <li><a href="#"> <i class="ti-instagram"></i></a></li>
-                                    </ul>
-                                </div>
+                <div class="team-info-wrap">
+                    <div class="row align-items-center">
+                    <div class="col-lg-10">
+                            <div class="team-info-text">
+                            <div class="exprience-wrap">
+                                <h2></a>Types of Service </h2>
+                              
+                            </div>
+                                <ul>
+                                <li>Grand opening </li>
+                                    <li>Meetings, seminars, speakers, training</li>
+                                    <li>Company announcements, product launches or releases</li>
+                                    <li>Team-building days, executive retreats</li>
+                                    <li>Conferences, trade shows, networking events</li>
+                                    <li>Holiday parties, annual parties, employee appreciation</li>
+                                    <li>Anything else you need!</li>
+                                    <img src="assets/images/about/shape6.png"
+                                       style="width:100px"     alt="Liora Events & Weeding"></a>
+                                </ul>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6 col-12">
-                            <div class="wpo-team-item">
-                                <div class="wpo-team-img">
-                                    <img src="assets/images/team/img-2.jpg" alt="">
-                                </div>
-                                <div class="wpo-team-text">
-                                    <h3><a href="team-single.html">Someone else</a></h3>
-                                    <span>Makeup Artist</span>
-                                    <ul>
-                                        <li><a href="#"> <i class="ti-facebook"></i></a></li>
-                                        <li><a href="#"> <i class="ti-twitter-alt"></i></a></li>
-                                        <li><a href="#"> <i class="ti-linkedin"></i></a></li>
-                                        <li><a href="#"> <i class="ti-instagram"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6 col-12">
-                            <div class="wpo-team-item">
-                                <div class="wpo-team-img">
-                                    <img src="assets/images/team/img-3.jpg" alt="">
-                                </div>
-                                <div class="wpo-team-text">
-                                    <h3><a href="team-single.html">someone else </a></h3>
-                                    <span>Planner</span>
-                                    <ul>
-                                        <li><a href="#"> <i class="ti-facebook"></i></a></li>
-                                        <li><a href="#"> <i class="ti-twitter-alt"></i></a></li>
-                                        <li><a href="#"> <i class="ti-linkedin"></i></a></li>
-                                        <li><a href="#"> <i class="ti-instagram"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6 col-12">
-                            <div class="wpo-team-item">
-                                <div class="wpo-team-img">
-                                    <img src="assets/images/team/img-4.jpg" alt="">
-                                </div>
-                                <div class="wpo-team-text">
-                                    <h3><a href="team-single.html">someone else</a></h3>
-                                    <span>Photographer</span>
-                                    <ul>
-                                        <li><a href="#"> <i class="ti-facebook"></i></a></li>
-                                        <li><a href="#"> <i class="ti-twitter-alt"></i></a></li>
-                                        <li><a href="#"> <i class="ti-linkedin"></i></a></li>
-                                        <li><a href="#"> <i class="ti-instagram"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
 
-            </div> <!-- end container -->
-        </section>
-        <!-- end wpo-team-section -->
+                    </div>
+                </div>
+               
+            </div>
+        </div>
+           <section class="wpo-contact-section section-padding">
+                <div class="container">
+                    <div class="wpo-contact-section-wrapper">
+                        <div class="wpo-contact-form-area">
+                            <div class="wpo-section-title">
+                                <span>Let’s Meet</span>
+                                <h2>Make an inquiry</h2>
+                                <div class="section-title-img">
+                                    <img src="assets/images/section-title.png" alt="">
+                                </div>
+                            </div>
+                            <form method="post" class="contact-validation-active" id="contact-form-main">
+                                <div>
+                                    <input type="text" class="form-control" name="name" id="name" placeholder="Name">
+                                </div>
+                                <div>
+                                    <input type="email" class="form-control" name="email" id="email"
+                                        placeholder="Email">
+                                </div>
+                                <div>
+                                    <input type="text" class="form-control" name="adress" id="adress"
+                                        placeholder="Adress">
+                                </div>
+                                <div>
+                                    <select name="service" class="form-control">
+                                        <option disabled="disabled" selected>Services</option>
+                                        <option>Photography</option>
+                                        <option>The Rehearsal Dinner</option>
+                                        <option>The Afterparty</option>
+                                        <option>Videographers</option>
+                                        <option>Perfect Cake</option>
+                                        <option>All Of The Above</option>
+                                    </select>
+                                </div>
+                                <div>
+                                    <select name="guest" class="form-control">
+                                        <option disabled="disabled" selected>Number Of Guests</option>
+                                        <option>01</option>
+                                        <option>02</option>
+                                        <option>03</option>
+                                        <option>04</option>
+                                        <option>05</option>
+                                    </select>
+                                </div>
+                                <div>
+                                    <select name="meal" class="form-control last">
+                                        <option disabled="disabled" selected>Meal Preferences</option>
+                                        <option>Chicken Soup</option>
+                                        <option>Motton Kabab</option>
+                                        <option>Chicken BBQ</option>
+                                        <option>Mix Salad</option>
+                                        <option>Beef Ribs </option>
+                                    </select>
+                                </div>
+                                <div class="submit-area">
+                                    <button type="submit" class="theme-btn-s3">Send An Inquiry</button>
+                                    <div id="c-loader">
+                                        <i class="ti-reload"></i>
+                                    </div>
+                                </div>
+                                <div class="clearfix error-handling-messages">
+                                    <div id="success">Thank you</div>
+                                    <div id="error"> Error occurred while sending email. Please try again later.
+                                    </div>
+                                </div>
+                            </form>
+                            <div class="border-style"></div>
+                        </div>
+                        <div class="vector-1">
+                            <img src="assets/images/contact/1.png" alt="">
+                        </div>
+                        <div class="vector-2">
+                            <img src="assets/images/contact/2.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </section>
+        <!-- .team-pg-area end -->
         <!-- start of wpo-site-footer-section -->
         <footer class="wpo-site-footer">
             <div class="wpo-upper-footer">
@@ -541,5 +483,5 @@
 </body>
 
 
-<!-- Mirrored from wpocean.com/html/tf/loveme/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 17 Jun 2022 12:22:55 GMT -->
+<!-- Mirrored from wpocean.com/html/tf/loveme/team-single.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 17 Jun 2022 12:22:57 GMT -->
 </html>
