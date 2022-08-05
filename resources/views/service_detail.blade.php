@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="wpOceans">
     <link rel="shortcut icon" type="image/png" href="assets/images/favicon.png">
-    <title> Loveme - Wedding & Wedding Planner HTML5 Template</title>
+    <title>Liora Events&Weddings</title>
     <link href="assets/css/themify-icons.css" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
     <link href="assets/css/flaticon.css" rel="stylesheet">
@@ -198,38 +198,63 @@
                 </div> <!-- end row -->
             </div> <!-- end container -->
         </section>
-        <section class="wpo-about-section-s2 section-padding">
+        <section class="wpo-about-section section-padding">
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-lg-6 col-md-12 col-12">
+                    <div class="col-lg-5 col-md-12 col-12">
                         <div class="wpo-about-wrap">
                             <div class="wpo-about-item">
                                 <div class="wpo-about-img">
-                                    <img src="assets/images/about/babtismnew.jpg" alt="">
+                                    <img src="assets/images/about/decore3.jpg" alt="">
                                 </div>
                             </div>
+                            <div class="about-single-item">
+                                <div class="wpo-about-item-s2 wow rollIn" data-wow-duration="2s">
+                                    <div class="wpo-about-img">
+                                        <img src="assets/images/about/wedding8.jpg" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                           
+                           
+                          
+                            <div class="about-single-item">
+   
+                           
+                        <div class="wpo-about-item-s2 wow rollIn" data-wow-duration="2s">
+                                    <div class="wpo-about-img">
+                                        <img src="assets/images/about/bridal5.jpg" alt="" width="900px">
+                                    </div>
+                     
+                                   </div>    
+
+
+                                              </div>
+                           
+                           
                             <div class="ab-shape">
-                                <img src="assets/images/about/shape.png" alt="">
+                                <img src="assets/images/about/shape5.jfif" alt="">
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-12 col-12">
+          
+         
+      
+                    <div class="col-lg-7 col-md-12 col-12">
                         <div class="wpo-about-text">
                             <div class="wpo-about-icon">
                                 <div class="icon">
-                                    <img src="assets/images/about/thumb.png" alt="" style="width=30px">
+                                    <img src="assets/images/about/shape6.png" alt="">
                                 </div>
                             </div>
                             <div class="wpo-about-icon-content">
-                                <h2>Planner of Your Perfect Wedding Event</h2>
-                                <p> With every last detail taken care of,we're here to ensure the day you've always dreamed of will be the day you'll never forget  
-                                </p>
-                                <p>
-                              </p>
-                              
+                                <h2>Planner of Your Perfect wedding Event</h2>
+                                <p>With every last detail taken care of,we're here to ensure the day you've always dreamed of will be the day you'll never forget</p>
+               
                             </div>
                         </div>
                     </div>
+             
                 </div>
             </div>
         </section>

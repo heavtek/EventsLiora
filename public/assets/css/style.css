@@ -5774,7 +5774,7 @@ static-hero-s4
 }
 .wpo-contact-section .wpo-contact-section-wrapper .wpo-contact-form-area {
   padding: 60px 40px;
-  border: 30px solid  hsl(12deg 60% 82%);
+  border: 30px solid #cde0ef;
   position: relative;
   z-index: 99;
 }
@@ -5982,8 +5982,6 @@ static-hero-s4
 .wpo-about-section-s2 .wpo-about-wrap .wpo-about-item-s2 .wpo-about-img {
   padding: 20px;
   background: hsl(12, 60%, 82%);
-  width: 300px;
-  height: 300px;
 }
 .wpo-about-section .wpo-about-wrap .about-single-item,
 .wpo-about-section-s2 .wpo-about-wrap .about-single-item {
@@ -7290,11 +7288,10 @@ static-hero-s4
 }
 
 .wpo-about-section-s2 .wpo-about-wrap .wpo-about-item {
-  width: 340px;
+  max-width: 505px;
 }
 .wpo-about-section-s2 .wpo-about-wrap .wpo-about-item .wpo-about-img img {
-  width: 300px;
-  height:250px
+  width: 100%;
 }
 .wpo-about-section-s2 .wpo-about-text {
   padding-left: 0;
@@ -9095,7 +9092,7 @@ static-hero-s4
 .team-pg-area {
   max-width: 1080px;
   margin: 0 auto;
-  margin-top: -163px;
+  margin-top:-158px;
 }
 
 .team-info-img {
